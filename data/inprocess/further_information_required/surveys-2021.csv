@@ -1,0 +1,605 @@
+x,y,name,description,biogeo,canton,river,lot,forest,project,city
+7.2744284,47.0384197975452,aarberg-alte-aare-1,17-02-2021; surveyed area between road and alte-aare branch from baldsteg to holzkraftwerk aarberg,mp,be,,,,,aarberg
+7.2465017,47.1295999975452,alexander-moser-strasse-berm-1,,mp,be,,,,,biel
+7.251796,47.1271690975452,alexander-moser-strasse-box-1,11-04-2021,mp,be,,,,,biel
+7.251714,47.1271960975452,alexander-moser-strasse-box-2,11-04-2021,mp,be,,,,,biel
+7.251648,47.1272280975452,alexander-moser-strasse-box-3,11-04-2021,mp,be,,,,,biel
+7.2079413,47.1217302975452,alfermee-beach-1,,mp,be,,,,,cs
+7.2076286,47.1221898975452,alfermee-forest-1,,mp,be,,,,,cs
+7.247879,47.1306290975452,alfred-aebi-strasse-area-1,"surveyed the steep area between the sidewalk and; the railroad bridge and the path to the residents.
+11-04-2021
+07-05-2021",mp,be,,,,,biel
+7.247091,47.1302246975452,alfred-aebi-strasse-area-10,,mp,be,,,,,biel
+7.245949,47.1297760975452,alfred-aebi-strasse-area-2,"surveyed the plants growing in the soil/accumulation of organic material between the wall and the parking lot.
+11-04-2021",mp,be,,,,,biel
+7.245998,47.1299620975452,alfred-aebi-strasse-area-3,"surveyed the plants growing in the soil/accumulation of organic material between the trees separating the parking lot from the next lot..
+11-04-2021",mp,be,,,,,biel
+7.246571,47.1300940975452,alfred-aebi-strasse-area-4,"surveyed the empty lot bounded by the unused building; the fence; madretschkanal
+31-03-2021",mp,be,,,,,biel
+7.2487978,47.1309325975452,alfred-aebi-strasse-area-5,,mp,be,,,,,biel
+7.248452,47.1309140975452,alfred-aebi-strasse-area-6,"survey area is the little bit of non concrete area between the train tracks and the building.
+28-03-2021
+12-04-2021",mp,be,,,,,biel
+7.250854,47.1319120975452,alfred-aebi-strasse-area-7,,mp,be,,,,,biel
+7.2512637,47.1320550975452,alfred-aebi-strasse-area-8,,mp,be,,,,,biel
+7.246195,47.1297760975452,alfred-aebi-strasse-area-9,"semi-planted area between sidewalk and parking lot.
+11-04-2021",mp,be,,,,,biel
+7.254555,47.1341910975452,alleestrasse-area-1,,mp,be,,,,,biel
+7.2529914,47.1367261975452,alleestrasse-lot-1,,mp,be,,,,,biel
+7.252838,47.1358740975452,alleestrasse-madretschkanal-1,"survey area from bridge to bend in river; including the grass area sticking out adjascent to bridge.
+04-04-2021
+07-05-2021",mp,be,madretschkanal,,,,biel
+7.252639,47.1362340975452,alleestrasse-madretschkanal-2,"survey area from bend in river to concrete; between river and sidewalk.
+04-04-2021
+07-05-2021",mp,be,madretschkanal,,,,biel
+7.252592,47.1365170975452,alleestrasse-madretschkanal-3,"survey area between river; bridge and road.
+04-04-2021
+07-05-2021",mp,be,madretschkanal,,,,biel
+7.253147,47.1356140975452,alleestrasse-madretschkanal-4,10.04.2021; survey area is little forest patch between roads and madretschkanal,mp,be,madretschkanal,,,,biel
+7.234774,47.1357678975452,alpenstrasse-lot-1,,mp,be,,,,,biel
+7.2371754,47.1882392975452,au-vernet-suze-1,surveyed the forest and its surrounding area; main feature is small patches of leocojum verna,mp,be,suze,,,,cs
+7.2483729,46.9880169975452,austrasse-forest-1,05-03-2021; surveyed both sides of road  leading to forest; about 20 meters.,mp,be,,,,,cs
+7.2493315,46.9896759975452,austrasse-forest-2,05-03-2021; surveyed area to the left and right of the path. blankets of scillia bifolia and allium ursinum.,mp,be,,,,,cs
+7.2503185,46.9890063975452,austrasse-forest-3,05-03; surveyed from primula elatior to stream.,mp,be,,,,,cs
+7.253882,47.1340650975452,bahnweg-madretschkanal-7,"surveyed the right side of the sidewalk; bounded by the fence; the road; the parking lot on three sides. survey length about 30 meters.
+10-04-2021",mp,be,,,,,biel
+7.253308,47.1344130975452,bahnweg-madretschkanal-8,"survey area is right side of path from the last building until the end of the road.
+10-04-2021",mp,be,madretschkanal,,,,biel
+7.252029,47.1340170975452,bahnweg-madretschkanal-1,"survey area is wild grass area enclosed by the path; the mowed grass boundary.
+08-03-2021
+06-04-2021
+22-05-2021
+01-02-2021",mp,be,madretschkanal,,,,biel
+7.251956,47.1340740975452,bahnweg-madretschkanal-2,"survey area was entire forest area between river - path; path - fence
+06-04-2021
+08-03-2021
+22-05-2021
+01-02-2021",mp,be,madretschkanal,,,,biel
+7.252452,47.1342790975452,bahnweg-madretschkanal-3,"survey area is wild grass area enclosed by the path.
+08-03-2021
+06-04-2021
+22-05-2021
+01-02-2021",mp,be,madretschkanal,,,,biel
+7.252238,47.1343030975452,bahnweg-madretschkanal-4,"entire forest area between path and 5 meters after the bulge on this side of the river.
+08-03-2021
+06-04-2021
+22-05-2021
+01-02-2021",mp,be,madretschkanal,,,,biel
+7.252572,47.1344080975452,bahnweg-madretschkanal-5,"forest area between end of madretschkanal 4 and start of planted area at the end of bahnweg.
+08-03-2021
+06-04-2021
+22-05-2021
+01-02-2021",mp,be,madretschkanal,,,,biel
+7.253022,47.1346070975452,bahnweg-madretschkanal-6,"forest area after end of bahnweg; bounded by madretschkanal 5; the fence; and the madretschkanal.
+08-03-2021
+06-04-2021
+22-05-2021",mp,be,madretschkanal,,,,biel
+7.259515,47.1277330975452,bermenstrasse-area-1,"survey area between fence and bermenstrasse
+03-04-2021
+03-05-2021",mp,be,,,,,biel
+7.258793,47.1305200975452,bermenstrasse-area-2,"survey area between ttree/shrub line and edge of road;
+03-05-2021",mp,be,,,,,biel
+7.2599383,47.1275870975452,bermenstrasse-area-3,,mp,be,,,,,biel
+7.2594338,47.1280533975452,bermenstrasse-area-4,,mp,be,,,,,biel
+7.259475,47.1276700975452,bermenstrasse-berm-1,"surveyed area immediately around path; in flat ground at bottom; avoided stepping on delicate terrain; plants largely visible.
+22-05-2021",mp,be,,,,pronat,biel
+7.259613,47.1274640975452,bermenstrasse-berm-2,"surveyed from underneat bridge to edge of house and shortly upwards from the ""path""",mp,be,,,,pronat,biel
+7.258558,47.1294560975452,bermenstrasse-berm-3,surveyed berm opposite the plots of land between the two streets.,mp,be,,,,,biel
+7.25861,47.1305230975452,bermenstrasse-berm-4,survey area between small conifer and 5 meters before rock circle on map.,mp,be,,,,,biel
+7.258573,47.1313740975452,bermenstrasse-berm-5,surveyed between bridge and end of row of five trees; wandered from top to bottom.,mp,be,,,,,biel
+7.2414139,47.1278183975452,bernstrasse-madretschkanal-1,,mp,be,,,,,biel
+7.2603384,47.1265932975452,bielstrasse-berm-1,,mp,be,,,,,biel
+7.261725,47.1253930975452,bielstrasse-berm-2,"survey area is green area between sidewalk and cemetery
+22-05-2021",mp,be,,,,,biel
+7.2626691,47.1247205975452,bielstrasse-berm-3,survey area is left side of road; from speed sign to bike path underneath road/highway,mp,be,,,,,biel
+7.262354,47.1250630975452,bielstrasse-berm-4,"survey area is green patch between left branch of path and fenced off/gravel area.
+23-05-2021",mp,be,,,,,biel
+7.3025726,47.1653274975452,bifangmattenweg-forest-1,,mp,be,,,,,biel
+7.300172,47.1647873975452,bifangmattenweg-leugene-1,,mp,be,,,,,biel
+7.255978,47.1326630975452,blumenrain-area-1,04-04-2021,mp,be,,,,,biel
+7.2575676,47.1330452975452,blumenrain-berm-1,"surveyed the entire berm area between until the road curves away.
+05-04-2021",mp,be,,,,pronat,biel
+7.257084,47.1327100975452,blumenrain-box-1,05-04; 03-07,mp,be,,,,,biel
+7.255181,47.1295680975452,brueggstrasse-area-1,05-04-2021,mp,be,,,,,biel
+7.253431,47.1306710975452,brueggstrasse-area-2,survey area is tree covered area between road and parking lot; 07-05-2021; 28-03-21,mp,be,,,,,biel
+7.2545598,47.1294698975452,brueggstrasse-area-3,formerly box brueggstrasse box 7-10,mp,be,,,,,biel
+7.2525835,47.1314234975452,brueggstrasse-area-4,04-04-2021; formerly brueggstrasse box 5;6,mp,be,,,,,biel
+7.254117,47.1300180975452,brueggstrasse-berm-1,"surveyed only 2 meters deep from sidewalk.
+03-04-21",mp,be,,,,,biel
+7.2586886,47.1276467975452,brueggstrasse-berm-2,"surveyed area from tree/shrub line until 4th municipal tree
+04-04-2021
+19-05-2021
+survey area: extended from the treeline to the forsythia x intermedia; just after the start of the second property; and between the highway and the fence.
+survey area is very steep; facing away from the sun.
+corydalus cava made up signficant part of ground cover with many flowers some turning to seeds at this point.
+cardamine pratensis scattered throughout the survey area; low coverage; but looks likely to increase signficantly.",mp,be,,,,,biel
+7.257402,47.1281120975452,brueggstrasse-box-1,03-04-2021,mp,be,,,,,biel
+7.256646,47.1285620975452,brueggstrasse-box-2,03-04-2021,mp,be,,,,,biel
+7.256441,47.1286730975452,brueggstrasse-box-3,03-04-2021,mp,be,,,,,biel
+7.256227,47.1288060975452,brueggstrasse-box-4,03-04-2021,mp,be,,,,,biel
+7.252035,47.1321600975452,brueggstrasse-box-5,,mp,be,,,,,biel
+7.253875,47.1299690975452,brueggstrasse-box-6,"surveyed lavender box (?) with tree
+29-03-2021",mp,be,,,,,biel
+7.268119,47.1532760975452,buerenstrasse-suze-1,"survey area bounded by road; bridge; river on each side. surveyed river edge as possible from island.
+12-05-2021
+08-04-2021
+06-02-2021 (to be entered)",mp,be,suze,,,,biel
+7.268319,47.1532760975452,buerenstrasse-suze-2,"survey area is the grass / tree area between the parking lot and the suze.
+20-03-2021
+22-02-2021",mp,be,suze,,,,biel
+7.268375,47.1530290975452,buerenstrasse-suze-3,"survey area is entire ramp and gravel path between the walls and the river.
+20-03-2021; 20-04-2021; 06-02-2021",mp,be,suze,,,,biel
+7.268542,47.1527490975452,buerenstrasse-suze-4,survey area is between trees; from path to beach area,mp,be,suze,,,,biel
+7.268903,47.1524840975452,buerenstrasse-suze-5,survey area is from path to river edge; including exposed bank area.,mp,be,suze,,,,biel
+7.2700134,47.1517774975452,buerenstrasse-suze-6,11-02 20-03,mp,be,suze,,,,biel
+7.2712956,47.1493964975452,buerenstrasse-suze-7,11-02 20-03  surveyed area between path; fence and river.,mp,be,suze,,,,biel
+7.2713538,47.1503898975452,buerenstrasse-suze-8,20-03; surveyed area between house and road and path; and between path and river,mp,be,suze,,,,biel
+7.2707342,47.1514093975452,buerenstrasse-suze-9,20-03-21; surveyed grassy triangle area and the area between path and river.,mp,be,suze,,,,biel
+7.248372,47.1328660975452,bundes-komm-box-1,05-04-2021 missing,mp,be,,,,,biel
+7.247361,47.1323390975452,bundes-komm-box-2,05-04-2021 missing,mp,be,,,,,biel
+7.247487,47.1324060975452,bundes-komm-box-3,05-04-2021,mp,be,,,,,biel
+7.247626,47.1324740975452,bundes-komm-box-4,05-04-2021,mp,be,,,,,biel
+7.247751,47.1325430975452,bundes-komm-box-5,05-04-2021,mp,be,,,,,biel
+7.247922,47.1326300975452,bundes-komm-box-6,05-04-2021,mp,be,,,,,biel
+7.2842531,47.1464760975452,buttenbergstrasse-park-1,,mp,be,,,,,biel
+6.8145461,47.1064489975452,cdf-forest-1,29-06-2021,ju,ne,,,,,cdf
+6.8133336,47.1065031975452,cdf-forest-2,29-06-2021,ju,ne,,,,,cdf
+6.8141222,47.1071585975452,cdf-forest-3,29-06-2021,ju,ne,,,,,cdf
+6.8392293,47.0924623975452,cdf-forest-4,,ju,ne,,,,,cdf
+6.8392126,47.0911026975452,cdf-forest-5,,ju,ne,,,,,cdf
+6.8331166,47.0900628975452,cdf-forest-6,,ju,ne,,,,,cdf
+6.8248443,47.0973497975452,cdf-sbb-1,06-29-2021,ju,ne,,,,,cdf
+6.8247694,47.0962560975452,cdf-sbb-2,,ju,ne,,,,,cdf
+6.8213613,47.0968944975452,cdf-sbb-3,,ju,ne,,,,,cdf
+6.8202203,47.0961084975452,cdf-sbb-4,,ju,ne,,,,,cdf
+6.8240476,47.0980124975452,cdf-sbb-5,,ju,ne,,,,,cdf
+6.8251994,47.0957910975452,cdf-sbb-6,,ju,ne,,,,,cdf
+7.2547341,47.1384209975452,cygnes-cff-1,,mp,be,,,,,biel
+7.2541971,47.1383379975452,cygnes-cff-2,,mp,be,,,,,biel
+7.2374892,47.1361554975452,dammweg-berm-1,,mp,be,,,,,biel
+7.2380719,47.1280318975452,dr-schneider-strasse-area-1,31-03-2021,mp,be,,flaess,none,,biel
+7.271219,47.1481420975452,eidochsweg-suze-1,"survey area is flat area between cemetery and tree line; bounded by sidewalk and point where wall turns in.
+17-04-2021
+20-03-2021",mp,be,suze,,,,biel
+7.270827,47.1477980975452,eidochsweg-suze-2,"survey area between cemetery and forest edge; area where chain link fence forms boundary (about 40 meters)
+17-04-2021
+20-03-2021",mp,be,suze,,,,biel
+7.270453,47.1475180975452,eidochsweg-suze-3,"survey area bounded by wall on left; cemetery; treeline; and the start of the chain link fence ( about 25 meters from end of wall.
+17-04-2021
+20-03-2021",mp,be,suze,,,,biel
+7.254304,47.1292160975452,erlacherweg-area-1,"11-04-2021
+29-03-2021",mp,be,,,,,biel
+7.255524,47.1283230975452,erlacherweg-park-1,"shrubby area surrounded by concrete/gravel
+12-04-2021",mp,be,,,,,biel
+7.255699,47.1283260975452,erlacherweg-park-2,"shrubby area surrounded by concrete/gravel
+11-04-2021",mp,be,,,,,biel
+7.255268,47.1279210975452,erlacherweg-park-3,"survey is the shrubby area
+11-04-2021
+29-03-2021",mp,be,,,,,biel
+7.255466,47.1280790975452,erlacherweg-park-4,"grassy; mowed area; includes areas under the trees
+11-04-2021
+29-03-2021",mp,be,,,,,biel
+7.258605,47.1250050975452,erlacherweg-park-5,22-05-20221,mp,be,,,,,biel
+7.232464,47.1265940975452,erlenweg-forest-1,"survey between the left side (facing lac de bienne) of the river and the edge of the mowed area.
+31-03-2021",mp,be,,,,,biel
+7.2321708,47.1268478975452,erlenweg-lake-1,"surveyed the right side of the cove; between the water and the wall.
+31-03-2021",mp,be,,,,,biel
+7.2517798,47.1520739975452,fallbringenhof-forest-1,,mp,be,,,fallbringenhof,,biel
+7.2548657,47.1520260975452,fallbringenhof-forest-2,,mp,be,,,fallbringenhof,,biel
+7.2286279,47.1346962975452,felseck-forest-1,01-07-2021,mp,be,,,felseck,,biel
+7.2262344,47.1340953975452,felseck-forest-2,01-07-2021,mp,be,,,felseck,,biel
+7.2260651,47.1335975975452,felseck-forest-3,,mp,be,,,felseck,,biel
+7.2255743,47.1333457975452,felseck-forest-4,,mp,be,,,felseck,,biel
+7.2371336,47.1288189975452,flaesserweg-lot-1,,mp,be,,flaess,none,,biel
+7.2362421,47.1279537975452,flaesserweg-lot-2,,mp,be,,flaess,none,,biel
+7.238057,47.1284370975452,flaesserweg-lot-3,31-03-2021; was flaesserweg-area-1; no data,mp,be,,flaess,none,,biel
+7.2614877,47.1488331975452,fontenalstrasse-area-1,,mp,be,,,,,biel
+7.2471575,47.1316248975452,freiburgstrasse-berm-1,,mp,be,,,,,biel
+7.2469523,47.1315837975452,freiburgstrasse-berm-2,,mp,be,,,,,biel
+7.250279,47.1331210975452,freiburgstrasse-box-1,04-04-2021,mp,be,,,,,biel
+7.249888,47.1329060975452,freiburgstrasse-box-2,04-04-2021,mp,be,,,,,biel
+7.249664,47.1328160975452,freiburgstrasse-box-3,04-04-2021,mp,be,,,,,biel
+7.249491,47.1327150975452,freiburgstrasse-box-4,04-04-2021,mp,be,,,,,biel
+7.249157,47.1324670975452,freiburgstrasse-box-5,04-04-2021,mp,be,,,,,biel
+7.24836,47.1321250975452,freiburgstrasse-box-6,04-04-2021,mp,be,,,,,biel
+7.247976,47.1319220975452,freiburgstrasse-box-7,04-04-2021,mp,be,,,,,biel
+7.247604,47.1317780975452,freiburgstrasse-box-8,04-04-2021,mp,be,,,,,biel
+7.247572,47.1314300975452,freiburgstrasse-madretschkanal-1,survey area includes both sides of the river; up to the parking lot on the berm facing the river; up to the first tree in the parking lot.09-03-2021; 04-04-2021; 07-05-2021,mp,be,madretschkanal,,,,biel
+7.254384,47.1321890975452,friedweg-area-1,,mp,be,,,,,biel
+7.2531592,47.1691710975452,frinvilier-ramp-1,"08-02-21
+corylus avellana; only flowers visible were the two helleborous foetidus flowers. scattered corylus avellana-type trees in flower",ju,be,suze,,,,cs
+7.2489665,47.1717839975452,frinvillier-suze-1,31.05;  surveyed both side of the road between bridge and building.,ju,be,suze,,,,cs
+7.2490708,47.1725573975452,frinvillier-suze-2,31.05; surveyed right side of suze river along path; included upper forest area through the artificial ponds.,ju,be,suze,,,,cs
+7.2647,47.1546610975452,fuchsenried-forest 1,"survey area is entrance to forest path; about 1 meter on each side of path; about 2 meters into forest
+08-05-2021",mp,be,,,,,biel
+7.2644066,47.1560466975452,fuchsenried-forest 2,"survey area is junction between road and forest path and surrounding area. february survey is more expansive due to lack of flowers visible.
+08-05-2021
+24-02-2021",mp,be,,,,,biel
+7.264434,47.1572230975452,fuchsenried-forest 3,survey area is final ten meters of forest road until the fence/gate. surveyed both sides of path.,mp,be,,,,,biel
+7.261473,47.1435110975452,fussweg-suze-1,"survey area is between side walk and river; and between the two bridges.
+13-04-2021
+14-03-2021",mp,be,suze,,,,biel
+7.261276,47.1432680975452,fussweg-suze-2,"surveyed area between path and river and between where the berm totally ends and the small bridge.
+12-05-2021
+13-04-2021
+14-03-2021",mp,be,suze,,,,biel
+7.2599,47.1423960975452,fussweg-suze-3,"12-04-2021
+19-05-2021",mp,be,suze,,,,biel
+7.25931,47.14242,fussweg-suze-4,"suveyed green area between sidewalk and fence starting from edge of building after about 15 meters.
+12-04-2021",mp,be,suze,,,,biel
+7.2498958,47.1361002975452,gartenstrasse-area-1,,mp,be,,,,,biel
+7.248429,47.1327960975452,"gewerberhofstrasse
+box 1",05-04-2021,mp,be,,,,,biel
+7.248265,47.1327150975452,"gewerberhofstrasse
+box 2",05-04-2021,mp,be,,,,,biel
+7.248045,47.1325990975452,gewerberhofstrasse-box 3,05-04-2021,mp,be,,,,,biel
+7.24787,47.1325080975452,gewerberhofstrasse-box 4,05-04-2021,mp,be,,,,,biel
+7.247754,47.1324450975452,gewerberhofstrasse-box-5,05-04-2021,mp,be,,,,,biel
+7.247673,47.1323980975452,gewerberhofstrasse-box-6,05-04-2021,mp,be,,,,,biel
+7.247449,47.1323000975452,gewerberhofstrasse-box-7,05-04-2021,mp,be,,,,,biel
+7.247273,47.1322160975452,gewerberhofstrasse-box-8,05-04-2021,mp,be,,,,,biel
+7.24639,47.1285390975452,grenzstrasse-park-1,"survey area is the unmowed areas underneath the trees
+11-04-2021",mp,be,,,,,biel
+7.3274094,47.1355472975452,griendamm-forest-1,19-02 surveyed forest path and field/forest boundary,mp,be,,,,,cs
+7.3369838,47.1437849975452,hoell-alte-aare,19-02 surveyed the perimeter of a field in the middle of the nature reserve,mp,be,,,,,cs
+7.256594,47.1409900975452,holunderweg-madretschkanal-1,"survey area is madretschkanal berm between bridge and extending 30 meters out.
+13-05-2021
+16-04-2021
+14-03-2021
+09-02-2021",mp,be,madretschkanal,,,,biel
+7.256533,47.1407350975452,holunderweg-madretschkanal-2,"survey area starts from end of area 1 and continues until concrete obstruction of berm/trees; about 35 meters
+16-04-2021
+14-03-2021
+09-02-2021",mp,be,madretschkanal,,,,biel
+7.256283,47.1402850975452,holunderweg-madretschkanal-3,"survey area is from fence to river and from sidewalk to about 20 meters into area
+13-05-2021
+16-04-2021
+20-03-2021",mp,be,madretschkanal,,,,biel
+7.2552348,47.1399838975452,holunderweg-madretschkanal-4,"survey area from fence to madretschkanal; bounded on sides by the lines extending from the 2 residential buildings across the fence.
+12-05-2021
+16-04-2021
+20-03-2021",mp,be,madretschkanal,,,,biel
+7.254166,47.1396610975452,holunderweg-madretschkanal-5,"survey area is the last bit of fence bounded by the fence on two sides; madretschkanal and extending about 20 meters out.
+12-05-2021
+16-04-2021
+20-03-2021",mp,be,madretschkanal,,,,biel
+7.2561006,47.1401337975452,holunderweg-madretschkanal-6,,mp,be,madretschkanal,,,,biel
+7.2536351,47.1391668975452,holunderweg-madretschkanal-7,,mp,be,madretschkanal,,,,biel
+7.2566403,47.1408109975452,holunderweg-madretschkanal-8,14.03.2021; surveyed opposite bank of madretschkanal from a distance.,mp,be,madretschkanal,,,,biel
+7.2778169,47.1091915975452,jaissberg-forest-1,first flowers encountered were galanthus nivalis near the forest hut; nothing else around.,mp,be,,,jaissberg,,cs
+7.2769156,47.1114255975452,jaissberg-forest-2,23-02-2021; surveyed the path between where the bike trail ends and the forest path turns hard left,mp,be,,,jaissberg,,cs
+7.2739974,47.1120607975452,jaissberg-forest-3,23-02-2021; surveyed from where the stream crosses the path to the end of the forest.,mp,be,,,jaissberg,,cs
+7.283886,47.1156842975452,jaissberg-forest-4,,mp,be,,,jaissberg,,cs
+7.2482594,47.1422940975452,jurastrasse-area-1,03-07-2021,mp,be,,,,,biel
+7.2496154,47.1434058975452,jurastrasse-park-1,,mp,be,,,,,biel
+7.242635,47.1387360975452,karl-neuhaus-strasse-park-1,"surveyed entire park area; including the mowed area; the tree and shrubby areas on each side of the fence
+29-03-2021",mp,be,,,,,biel
+7.245964,47.1284190975452,keltenstrasse-berm-1,"both sides of keltenstrasse; diversity located on right side of the road.
+11-04-2021
+24-05-2021",mp,be,,,,,biel
+7.246258,47.1287380975452,keltenstrasse-berm-2,"surveyed up the unwmowed area up to the pine tree and the line perpinduclar to the railroad tracks
+11-04-2021",mp,be,,,,,biel
+7.247552,47.1343650975452,kongresshaus-box-1,06-04-2021,mp,be,,,,,biel
+7.247927,47.1345200975452,kongresshaus-box-2,06-04-2021,mp,be,,,,,biel
+7.2517661,47.1321631975452,kreuzplatz-box-1,,mp,be,,,,,biel
+7.2315204,47.1884969975452,la-heutte-suze-2,18-02-2021; surveyed between this point and the bridge; corylus avellana; small stellaria media; one patch helleborous foetidus,ju,be,,,,,cs
+7.288654,47.1386250975452,laengholz-forest-1,area to the left and and right of the road just before the newly planted treeline on left; until treeline on right.,mp,be,,,laengholz,,biel
+7.2854114,47.1331510975452,laengholz-forest-10,23-02-2021; surveyed field/forest edge,mp,be,,,laengholz,,biel
+7.2781518,47.1375142975452,laengholz-forest-11,12-03-2021; surveyed short distance into the wet forest behind mettmoos,mp,be,,,laengholz,,biel
+7.2650476,47.1390266975452,laengholz-forest-12,12-03-202; surveyed forest area on the north side of the path; about 2 meters in.,mp,be,,,laengholz,,biel
+7.2691626,47.1390783975452,laengholz-forest-13,12-03-2021; surveyed area before; around and after pond along the path,mp,be,,,laengholz,,biel
+7.2748918,47.1402661975452,laengholz-forest-14,12-03-2021; scattered salix; flowers not yet ready to go on the ranunculus; anemone; but getting there.,mp,be,,,laengholz,,biel
+7.2835611,47.1384490975452,laengholz-forest-15,,mp,be,,,laengholz,,biel
+7.2641731,47.1266070975452,laengholz-forest-16,08-03-2021; surveyed both sides of path  until sharp south turn in cemetery walls.,mp,be,,,laengholz,,biel
+7.289871,47.1382740975452,laengholz-forest-2,survey area about 20 meters long on left side of road; extenidng about 2 meters deep; starting about 15 meters from main road,mp,be,,,laengholz,,biel
+7.26835,47.1269270975452,laengholz-forest-3,"survey area is about 4 meters wide by 8 meters long; bounded by paths.
+08-03-2021",mp,be,,,laengholz,,biel
+7.2673042,47.1279539975452,laengholz-forest-4,survey area is exposed forest edge; about 8 meters long; 2 meters deep.,mp,be,,,laengholz,,biel
+7.2670745,47.1331305975452,laengholz-forest-5,"galanthus nivalis
+large patch extended 4-5 meters in all directions of both galanthus nivalis and corydalis solida in full flower with seemingly more of each (especially cs) to come; very large patch of crocus vernus flowering next to a small goat farm. the goats had been let loose some days ago and torn up the crocus; but new flowers back alread",mp,be,,,laengholz,,biel
+7.277632,47.1338390975452,laengholz-forest-6,,mp,be,,,laengholz,,biel
+7.272995,47.1397780975452,laengholz-forest-7,survey area is between building and slope towards molasseweg,mp,be,,,laengholz,,biel
+7.272231,47.1398630975452,laengholz-forest-8,survey area is,mp,be,,,laengholz,,biel
+7.2872568,47.1322240975452,laengholz-forest-9,23-02-2021; surveyed both sides of forest path after encountering chrysoplenium alternum,mp,be,,,laengholz,,biel
+7.258339,47.1329590975452,lindenweg-area 1,"survey area between road and train sound barrier.
+04-04-2021",mp,be,,,,,biel
+7.257971,47.1297300975452,"lokomotivdepot
+area 3",a very nice pine tree was cut down between mar 2020 and 04.04.2021 and an interesting little pine biotope destroyed,mp,be,,,,,biel
+7.256611,47.1300070975452,lokomotivdepot-area-1,04-04-21,mp,be,,,,,biel
+7.256326,47.1300960975452,lokomotivdepot-area-2,04-04-2021,mp,be,,,,,biel
+7.254482,47.1302640975452,lokomotivdepot-berm-1,"the entirety of the berm area on this side of the road
+04-04-2021
+23-05-2021",mp,be,,,,,biel
+7.2548466,47.1301507975452,lokomotivdepot-berm-2,"26-03-2021
+survey area includes about 5 meters of hedgerow and undergrowth on the right; about 5 meters on the left and about 5 meters into the train tracks.
+26-03-2021",mp,be,,,,,biel
+7.3110806,47.0889432975452,lyssbach-forest-1,04-03-2021; surveyed floodplain area,mp,be,,,,,cs
+7.3110496,47.0911114975452,lyssbach-forest-2,,mp,be,,,,,cs
+7.254065,47.1338940975452,"madretschstrasse
+box 1","survey area is planted area (separate from tree line)
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.25419,47.1338180975452,"madretschstrasse
+box 2","survey area is 1st planted area by bus stop
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.254333,47.1339630975452,"madretschstrasse
+box 3","survey area is 2nd planted area by bus stop
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.253369,47.1329330975452,"madretschstrasse
+box 4","survey area is planted area around tree.
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.254281,47.1336430975452,"madretschstrasse
+box 7","survey area is the 1st planted area by the bus stop.
+05-04-2021",mp,be,madretschkanal,,,,biel
+7.254485,47.1338150975452,"madretschstrasse
+box 8","survey area is the 1st planted area by the bus stop.
+05-04-2021",mp,be,madretschkanal,,,,biel
+7.253289,47.1328870975452,madretschstrasse-box-5,"survey area is planted area around tree.
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.253186,47.1328460975452,madretschstrasse-box-6,"survey area is planted area around tree.
+04-04-2021",mp,be,madretschkanal,,,,biel
+7.2054619,47.1423742975452,magglingen-forest-1,,ju,be,,,,,cs
+7.2090205,47.1456202975452,magglingen-forest-2,,ju,be,,,,,cs
+7.3127857,47.0971266975452,mandschurei-forest-1,04-03-2021; surveyed field and forest entrance. nothing in flower in forest entrance other than corylus avellana and alnus glutinosa; field had some flowers.,mp,be,,,,,cs
+7.3108921,47.0959105975452,mandschurei-forest-2,04-03-2021; surveyed area near galanthus nivalis patch.,mp,be,,,,,cs
+7.3107687,47.0943402975452,mandschurei-forest-3,04-03-2021; surveyed area at entrance to forest; into forest and across bridge into clearing.,mp,be,,,,,cs
+7.254478,47.1368060975452,mattenstrasse-area-1,surveyed the small park area; bounded by a hedgerow and the roads. very large tree. lots of dirt/path. mahonia adquifolium not looing happy. hedge rows not identified (10.04),mp,be,,,,,biel
+7.2516586,47.1351183975452,mattenstrasse-area-1,,mp,be,,,,,biel
+7.254698,47.1370950975452,mattenstrasse-berm-1,"surveyed wild area; had just been fully cut back a few days (a week?) prior.
+10-04-2021
+13-05-2021
+
+relatively barren; lots of graasses",mp,be,,,,,biel
+7.255104,47.1372710975452,mattenstrasse-berm-2,cultivated area; grass mowed; some bulb plants; etc; 10-04,mp,be,,,,,biel
+7.255296,47.1373780975452,mattenstrasse-berm-3,non cultivated part of berm; surveyed until the final narrowing of the green area. 10-04,mp,be,,,,,biel
+7.2580113,47.1383194975452,mattenstrasse-berm-4,,mp,be,,,,,biel
+7.2774929,47.1382594975452,mettmoos-field-1,,mp,be,,,,,biel
+7.2754141,47.1383827975452,mettmoos-field-2,,mp,be,,,,,biel
+7.2604543,47.1379420975452,mettstrasse-area-1,,mp,be,,,,,biel
+7.2594364,47.1376245975452,mettstrasse-area-2,,mp,be,,,,,biel
+7.262216,47.1386660975452,mettstrasse-lot-1,"survey area is gravelly road and both sides of it; up to wall edge; and up to trashbags; slightly before trashbags.
+25-05-2021",mp,be,,,,,biel
+7.258957,47.1229880975452,mooswaeldi-area-1,"10 meters from end of slop toward biel; between bike path and highway
+25-03-2021
+22-05-2021",mp,be,,,,,biel
+7.258955,47.1228100975452,mooswaeldli-area-2,"survey area between trees and sidewalk; on left side of path leading out of forest; extending left about 3 meters.
+25-03-2021",mp,be,,,,,biel
+7.2589317,47.1226284975452,mooswaeldli-forest-1,25-03-21; survey area is first meters into forest; until 10 meters after path turns left,mp,be,,,,,biel
+7.2579715,47.1228675975452,mooswaeldli-forest-2,,mp,be,,,,,biel
+7.2562334,47.1231066975452,mooswaeldli-forest-3,25-03-2021; survey is clearing and extending 5 meters further out; plus entrance of forest to grassy area.,mp,be,,,,,biel
+7.248193,47.1304170975452,muehlefeldweg-area-1,"survey area is area immediately from the start of muehlefeld weg on the rail road tracks side of the road until mã¼hlefeldweg joins the railroad berm.
+28-03-2021",mp,be,,,,,biel
+7.253528,47.1299970975452,muehlefeldweg-berm-1,26-03-2021; 24-05-2021; survey area is first bit of berm including and behind trees.,mp,be,,,,pronat,biel
+7.250244,47.1299840975452,muehlefeldweg-berm-2,survey area entirety of berm easily visible from sidewalk from area 2 until park 1.,mp,be,,,,,biel
+7.249295,47.1301770975452,muehlefeldweg-berm-3,24-03-2021,mp,be,,,,,biel
+7.2522549,47.1299632975452,muehlefeldweg-berm-4,28.03; survey area is between railroad tracks; ending track; berm-1;sidewalk,mp,be,,,,pronat,biel
+7.253705,47.1298150975452,muehlefeldweg-park-1,26.03.21; surveyed the flowers in the park,mp,be,,,,,biel
+7.2541407,47.1296016975452,muehlefeldweg-park-2,28.03.21; surveyed the section park in between the sidewalk,mp,be,,,,,biel
+7.271013,47.1449650975452,muehlestrasse-berm-1,20-04-2021; survey area is green area between bounded by the sidewalk; fence and bridge.,mp,be,,,,,biel
+7.27142,47.1442871975452,muehlestrasse-berm-2,,mp,be,,,,,biel
+7.269901,47.1473940975452,muehlestrasse-suze-1,"survey area is between path; suze and and bridge; extending until edge of wall; about 30 meters.
+17-04-2021",mp,be,suze,,,,biel
+7.270152,47.1476180975452,muehlestrasse-suze-2,,mp,be,suze,,,,biel
+7.272508,47.0325892975452,muelau-forest-1,17-02-2021; surveyed the forest path until the schütenzhaus; then looped along the path along the aare;,mp,be,,,,,aarberg
+7.3090518,47.1007265975452,mueligrien-forest-1,04-03-2021; surveyed exit of forest path. nothing in forest; flowers in the field area.,mp,be,,,,,cs
+7.246894,47.1309640975452,murtenstrasse berm 2,01-04-2021,mp,be,,,,,biel
+7.2461581,47.1318604975452,murtenstrasse-area-1,29-06-2021,mp,be,,,,,biel
+7.2465867,47.1321929975452,murtenstrasse-area-2,,mp,be,,,,,biel
+7.246576,47.1320289975452,murtenstrasse-area-3,,mp,be,,,,,biel
+7.246402,47.1311070975452,murtenstrasse-berm-1,01-04-2021,mp,be,,,,,biel
+7.247148,47.1308410975452,murtenstrasse-madretschkanal 1,01-04-2021,mp,be,madretschkanal,,,,biel
+7.2897449,47.1421848975452,neumatt-field-1,12-03-2021,mp,be,,,,,biel
+7.2892716,47.1411630975452,neumatt-stream-1,12-03-2021,mp,be,,,,renat-neumatt,biel
+7.2898266,47.1396880975452,neumatt-stream-2,12-03-2021; area between highway and road on bank of the stream,mp,be,,,,renat-neumatt,biel
+7.2796188,47.1203860975452,nidau-buren-kanal-1,04-02 surveyed area between the two bridges and between the river and path.,mp,be,,,,,biel
+7.2604687,47.1173051975452,nidau-buren-kanal-2,05-02-2021. surveyed area opposite gardens.,mp,be,,,,,biel
+7.2685262,47.1158365975452,nidau-buren-kanal-3,05-02-2021 surveyed area between path and river; specifically this patch of forest and the area immediately around it.,mp,be,,,,,biel
+7.2579626,47.1179623975452,nidau-buren-kanal-4,05-02-2021 surveyed area around the path of bare grass between thickets of small trees.,mp,be,,,,,biel
+7.2592699,47.1186446975452,nidau-buren-kanal-5,16-03; surveyed area immediately after rinstrasse/kanalweg junction to about 50 meters along,mp,be,,,,,biel
+7.2655509,47.1166797975452,nidau-buren-kanal-6,16-03; surveyed from the area between the first section of gardens and the river bank.,mp,be,,,,,biel
+7.2621335,47.1177287975452,nidau-buren-kanal-7,16-03-2021; surveyed the area between the path and the river and few meters into the second to last field before the gardens.,mp,be,,,,,biel
+7.2418257,47.1241254975452,nidau-lot-1,,mp,be,,,,,biel
+7.2597588,47.1531040975452,obem-fuchsenried-2,25-02-2021 surveyed forest patch on both sides of path between the path junctions,mp,be,,,,,biel
+7.2634134,47.1559317975452,obem-fuchsenried-forest-1,24-02 surveyed path between road and forest road,mp,be,,,,,biel
+7.2502013,47.1387086975452,oberer-quai-1,,mp,be,,,,,biel
+7.1824913,47.1553812975452,orvin-field-1,,ju,be,,,,,cs
+7.1681066,47.1482051975452,orvin-forest-1,,ju,be,,,,,cs
+7.268612,47.1524660975452,parc-renfer-suze-1,20-04-2021; 03-02-2021; 23-02-2021; surveyed area between building and stone stairs; between path and river,mp,be,suze,,,,biel
+7.2552648,47.1319866975452,paulusweg-area-2,,mp,be,,,,,biel
+7.2534286,47.1311020975452,paulusweg-area-3,,mp,be,,,,,biel
+7.2498988,47.1903417975452,pery-forest-1,,ju,be,,,,,cs
+7.2736678,47.1218013975452,pfeidli-forest 2,survey area is along the path at the entrance to the remaining forest,mp,be,,,pfeidli,,biel
+7.272236,47.1237810975452,pfeidli-forest 3,"survey area is entrance to forest; about 2 meters in on each side of the path; about 2 meters from the path in each direction.
+16-05-2021",mp,be,,,pfeidli,,biel
+7.2701817,47.1219723975452,pfeidli-forest-1,survey area is the newly cleared forest and the trees to the left; adjascent to pfeidwaldstrasse; 16-05-2021; 17-03-2021,mp,be,,,pfeidli,,biel
+7.2697726,47.1216120975452,pfeidli-forest-4,17-03; 16-05; survey area is clearing around path into forest and just into forest area; about 10 square meters,mp,be,,,pfeidli,,biel
+7.2724826,47.1232791975452,pfeidli-forest-5,17-03-21; survey area is entirety of forest area between roads and cemetery.,mp,be,,,pfeidli,,biel
+7.2748283,47.1218170975452,pfeidli-forest-6,,mp,be,,,pfeidli,,biel
+7.258257,47.1274800975452,portplatz-box 1,"survey area is the center of the roundabout.
+05-04-2021
+19-05-2021",mp,be,,,,,biel
+7.258452,47.1273560975452,portplatz-box 2,"survey area is this bit of grass and shrubbery planted in between the road.
+05-04-2021
+19-05-2021",mp,be,,,,,biel
+7.258658,47.1272980975452,portplatz-box 3,"survey area is between moosweg and portstrasse until shed/stairs.
+05-04-2021",mp,be,,,,,biel
+7.2584321,47.1263915975452,portrasse-park-1,,mp,be,,,,,biel
+7.258643,47.1269540975452,portstrasse-area-1,"survey area between road and sidewalk; bounded by shrub; down to first tree.
+03-05-2021",mp,be,,,,,biel
+7.258738,47.1269730975452,portstrasse-area 2,"survey area between sidewalk and fence; bounded by sidewalk to the same first tree in area 1
+03-05-2021",mp,be,,,,,biel
+7.2586103,47.1274106975452,portstrasse-berm-1,,mp,be,,,,,biel
+7.2602547,47.1240475975452,portstrasse-berm-2,,mp,be,,,,,biel
+7.2619199,47.1245362975452,portstrasse-lot-1,,mp,be,,port,,,biel
+7.2621972,47.1246884975452,portstrasse-lot-2,,mp,be,,port,,,biel
+7.2616087,47.1248086975452,portstrasse-lot-3,,mp,be,,port,,,biel
+7.2613268,47.1245640975452,portstrasse-lot-4,,mp,be,,port,,,biel
+7.2580431,47.1263860975452,portstrasse-park-2,,mp,be,,,,,biel
+7.258784,47.1316430975452,rebenweg-area-1,"survey area between bermenstrasse and rebenweg until building.
+04-04-2021
+03-05-2021
+03-07-2021",mp,be,,,,,biel
+7.254522,47.1223900975452,"reckweg
+zihlkanal 1","survey area is bank of canal and roadside about 7 meters long 4 meters wide; see photos for clarifications
+25-03-2021",mp,be,,,,,biel
+7.255343,47.1211760975452,reckweg-forest -1,"survey area was clearing from the trees (pine trees in swisstopo map all cut done)
+25-03-2021",mp,be,,,,,biel
+7.254833,47.1223130975452,reckweg-forest-2,"survey area is forest area between sidewalk; heidweg and fence; about 5 meters along path.
+25-03-2021",mp,be,,,,,biel
+7.254764,47.1221510975452,reckweg-zihlkanal-2,"survey area is the first three beaches/berm after heidweg meets ruckweg
+25-03-2021",mp,be,,,,,biel
+7.254995,47.1217980975452,reckweg-zihlkanal-3,,mp,be,,,,,biel
+7.269313,47.1331970975452,riedweg-forest 1,"survey area is edge of forest and about 5 meters into forest behind barbecue area
+26-03-2021",mp,be,,,,,biel
+7.0824702,47.0651489975452,ruisseau-de-vaux,15-02-2021 surveyed the hil,ju,be,,,,,cs
+7.2535741,47.1309508975452,saint-paulus-weg-area-1,,mp,be,,,,,biel
+7.252533,47.1371950975452,salomegasse-madretschkanal-1,,mp,be,madretschkanal,,,,biel
+7.252623,47.1374740975452,salomegasse-madretschkanal-2,,mp,be,madretschkanal,,,,biel
+7.2447018,47.1303222975452,salzhausstrasse-area-1,,mp,be,,,,,biel
+7.2455333,47.1307546975452,salzhausstrasse-area-2,,mp,be,,,,,biel
+7.2426731,47.1286821975452,salzhausstrasse-madretschkanal-1,,mp,be,madretschkanal,,,,biel
+7.2417331,47.1318897975452,sbb-area-1,,mp,be,,,,,biel
+7.2402269,47.1328655975452,sbb-area-2,,mp,be,,,,,biel
+7.2405948,47.1335433975452,sbb-area-3,,mp,be,,,,,biel
+7.2454917,47.1313013975452,sbb-area-4,,mp,be,,,,,biel
+7.1409778,47.0229985975452,schalterrain-forest-1,25-02-2021 surveyed the entrance to the forest. large patches of lamium purpureum; galanthus nivalis slightly out of survey area,mp,be,,,,,cs
+7.1343082,47.0246634975452,schalterrain-forest-2,25-02-2021 surveyed both sides of path where the forest had been somewhat recently cleared;,mp,be,,,,,cs
+7.116087,47.0279280975452,schalterrain-forest-3,25-02-2021; surveyed end of forest; beginning of field after path; tussilago farfara visible somewhat outside the survey range,mp,be,,,,,cs
+7.2644746,47.1442067975452,scheuessinsel-suze-11,13-03-2021; surveyed small area between path and the river.,mp,be,schuessinsel,,,,biel
+7.263161,47.1441500975452,scheussinsel-kanal-6,surveyed area between path; chapel and suze,mp,be,,,,,biel
+7.256925,47.1418460975452,schleusenweg-suze-1,"survey area is from dam to first light post
+15-04-2021",mp,be,suze,,,,biel
+7.257214,47.1419810975452,schleusenweg-suze-2,"survey area is between two lightposts
+15-04-2021",mp,be,suze,,,,biel
+7.257512,47.1421110975452,schleusenweg-suze-3,"survey area is from lightpost to end of concrete path.
+15-04-2021",mp,be,suze,,,,biel
+7.271029,47.1499600975452,schloesslifeld-suze-1,"survey area is between sidewalk; rocky area leading to beach and suze; extending about 15 meters to the right of the rocks.
+17-04-2021",mp,be,suze,,,,biel
+7.270963,47.1504630975452,schloesslifeld-suze-2,"survey area is between suze and path; extending the length of the right bunch of trees.
+12-05-2021",mp,be,suze,,,,biel
+7.270799,47.1506760975452,schloesslifeld-suze-3,,mp,be,suze,,,,biel
+7.270588,47.1479790975452,schloesslifeld-suze-4,"survey area is between sidewalk; raised area and suze; about 5 meters
+20-04-2021
+26-05-2021",mp,be,suze,,,,biel
+7.270897,47.1481980975452,schloesslifeld-suze-5,"survey area is between concrete structure and suze; from bridge to end end of concrete area downstream
+26-05-2021",mp,be,suze,,,,biel
+7.239264,47.1275860975452,schloss-nidau-area 7,,mp,be,,,,,biel
+7.239546,47.1280630975452,schloss-nidau-area-1,03-04,mp,be,,,,,biel
+7.240484,47.1281110975452,schloss-nidau-area-2,03-04,mp,be,,,,,biel
+7.24027,47.1275260975452,schloss-nidau-area-3,,mp,be,,,,,biel
+7.239993,47.1273420975452,schloss-nidau-area-4,,mp,be,,,,,biel
+7.239713,47.1271980975452,schloss-nidau-area-5,,mp,be,,,,,biel
+7.238969,47.1273120975452,schloss-nidau-area-6,,mp,be,,,,,biel
+7.252196,47.1303270975452,schmiedweg-berm-1,"surveyed to the little building on the left and equivalent distance to the right
+11-04-2021",mp,be,,,,,biel
+7.252521,47.1307031975452,schmiedweg-box-1,,mp,be,,,,,biel
+7.2527511,47.1307670975452,schmiedweg-box-2,,mp,be,,,,,biel
+7.2515537,47.1311156975452,schmiedweg-lot-1,,mp,be,,,,,biel
+7.249376,47.1330030975452,schneidergaessli-area-1,05-04-21; 27-06-21,mp,be,,,,,biel
+7.2515168,47.1339415975452,schneidergaessli-madretschkanal-1,05-02-2021 surveyed treeline and grassy area,mp,be,madretschkanal,,,,biel
+7.267986,47.1469520975452,schuessinsel-kanal-1,"survey area bounded by bridge; suze diversion; and wall.
+14-04-2021
+22-02-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.266907,47.1462760975452,schuessinsel-kanal-2,"survey area is the approximate triangle bounded by the path; the gravel area and the suze.
+17-04-2020",mp,be,schuessinsel,,none,renat-suze,biel
+7.266365,47.1461430975452,schuessinsel-kanal-3,"survey area is the approximate triangle between the hedgerow; the suze island canal; and the gravel area.
+17-04-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.26888,47.1472500975452,schuessinsel-kanal-4,surveyed area between kanal and play area,mp,be,schuessinsel,,none,renat-suze,biel
+7.267715,47.1465900975452,schuessinsel-kanal-5,01.03; surveyed from first big tree to final big tree; to river edge.,mp,be,schuessinsel,,none,renat-suze,biel
+7.26316,47.14415,schuessinsel-kanal-6,,mp,be,schuessinsel,,none,renat-suze,biel
+7.265885,47.1457100975452,schuessinsel-kanal-7,survey area between path and kanal; from bridge to line extending from far edge of building across kanal,mp,be,schuessinsel,,none,renat-suze,biel
+7.263168,47.1443574975452,schuessinsel-kanal-8,24-02-2021; surveyed area between swatch fence and kanal. bounded by bridged on each end.,mp,be,schuessinsel,,none,renat-suze,biel
+7.262422,47.1439740975452,schuessinsel-suze-1,"surveyed form where area widens to where it narrows; see photos for reference
+12-04-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.267709,47.1462440975452,schuessinsel-suze-10,survey area from line perpendicular from bridge to final three planted trees; from path to river.,mp,be,schuessinsel,,none,renat-suze,biel
+7.269176,47.1474950975452,schuessinsel-suze-11,"surveyed the larger of the two grassy mounds that contains two trees.
+14-3-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.2690929,47.1469850975452,schuessinsel-suze-12,30-06-2021,mp,be,schuessinsel,,none,renat-suze,biel
+7.2689062,47.1464018975452,schuessinsel-suze-13,,mp,be,schuessinsel,,none,renat-suze,biel
+7.262812,47.1439690975452,schuessinsel-suze-2,"surveyed area bounded by the river; the path; the line drawn from where the newly installed shrubbery ends; about 4 meters past bridge railing.
+12-04-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.269336,47.1473560975452,schuessinsel-suze-3,"surveyed the top edge of the embankment and as far down as possible to see closely.
+14-04-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.269258,47.1468330975452,schuessinsel-suze-4,"surveyed the exposed beach bounded on one side by the wall and on three sides by the river. 40% of size visible on swisstopo due to high water level.
+14-03-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.262288,47.1436860975452,schuessinsel-suze-5,"survey area is area between bridge; berm and river; including the bank of the river; small rocky face and grassy area. extending about 20 meters from bridge into berm
+15-04-2021
+20-03-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.26365,47.1438560975452,schuessinsel-suze-6,"survey about 10 meters around 2nd tree on gottstrasse; did not descend to beach area on 1st survey.
+20-03-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.265846,47.1446470975452,schuessinsel-suze-7,"survey area is berm bounded by sidewalk; including lawn in front of small building. area extends about 30 meters from bridge; including to river.
+19-04-2021
+20-03-2021",mp,be,schuessinsel,,none,renat-suze,biel
+7.26681,47.1459750975452,schuessinsel-suze-8,surveyed between river and path; from 5 meters before path breaks off to about halfway to where path meets beach,mp,be,schuessinsel,,none,renat-suze,biel
+7.266441,47.1459090975452,schuessinsel-suze-9,surveyed grassy area between the paths,mp,be,schuessinsel,,none,renat-suze,biel
+7.252997,47.1373626975452,schwanengasse-area-1,"survea area is difficult to describe
+09-04-2021
+07-05-2021",mp,be,madretschkanal,schwanen,,,biel
+7.25334,47.1374060975452,schwanengasse-area-2,"survey area is difficult to describe
+09-04-2021
+07-05-2021",mp,be,madretschkanal,schwanen,,,biel
+7.253021,47.1372000975452,schwanengasse-area-3,"survey area is hill and flat area extending about half meter out
+09-04-2021
+07-05-2021",mp,be,madretschkanal,schwanen,,,biel
+7.253221,47.1378100975452,schwanengasse-area-4,09-04; 10-03,mp,be,madretschkanal,schwanen,,,biel
+7.2529358,47.1375688975452,schwanengasse-area-5,02-07-2021,mp,be,madretschkanal,schwanen,,,biel
+7.2532992,47.1376201975452,schwanengasse-area-6,,mp,be,madretschkanal,schwanen,,,biel
+7.2531947,47.1387112975452,schwanengasse-madretchkanal-1,"survey area bounded by bridge; sidewalk and river; extending about 45 meters from bridge.
+10-04-2021
+07-05-2021",mp,be,madretschkanal,none,,renat-cygnes,biel
+7.252777,47.1375340975452,schwanengasse-madretschkanal-2,"survey area from first tree to third tree
+10-04-2021
+07-05-2021",mp,be,madretschkanal,none,,renat-cygnes,biel
+7.2361458,47.1347927975452,seefelsweg-berm-1,,mp,be,,,,,biel
+7.242837,47.1396679975452,seevorstrasse-area-1,,mp,be,,,,,biel
+7.251363,47.1366910975452,"silbergasse
+area 1","survey area is the less-mowed hills left in the mowed grass area.
+12-04-2021",mp,be,,,,,biel
+7.2699,47.1515390975452,sonnenfeld-suze-1,13-05-2021; 22-02-2021; surveyed from  hedgerow; the stairs into the reiver; and a bit further.,mp,be,suze,,,,biel
+7.3000663,47.1099620975452,studen-forest-1,28-06-2021,mp,be,,,jaissberg,,cs
+7.2984856,47.1128657975452,studen-forest-2,28-06-2021,mp,be,,,jaissberg,,cs
+7.7943958,46.6841795975452,sundgraben-beach-1,,na,be,thun,,,renat-sund,cs
+7.2672911,47.1536501975452,taubenloch-suze-1,02.06.21; surveyed first 15 meters of the empty lot,mp,be,suze,taubenloch,none,,biel
+7.3343031,47.1301932975452,underwald-forest-1,"19-02; tussilago farfara l.
+several masses of flowers; around 40 buds total on each side of the path here. 30% or so in flower.
+helleborous foetidous
+lots of flowering hf in about a 150 meter radius of this spot; which itself contains a huge patch of hf",mp,be,,,,,cs
+7.3374359,47.1283465975452,underwald-forest-2,19-02; large patch of galanthus nivalis; about 12 square meters in all. there was a bee feeding on the flowers. veronica persica on the outside of the forest,mp,be,,,,,cs
+7.236986,47.1331833975452,unterer-quai-suze-1,,mp,be,suze,,none,,biel
+7.2399722,47.1344141975452,untererquai-suze-2,,mp,be,suze,,none,,biel
+7.2410719,47.1348410975452,untererquai-suze-3,,mp,be,suze,,none,,biel
+7.2395852,47.1342379975452,untererquai-suze-4,,mp,be,suze,,none,,biel
+7.1076553,47.0385978975452,vinelz-lake-1,25-02-202; survey area is a few meters to each side of the path. bellis perennis in the grass; tussilago farfara on the lakeshore side.,mp,be,,,,,biel
+7.291817,47.1430410975452,vorhoelzli-forest 4,"survey area the right side of the path about 4 meters wide
+14-05-2021",mp,be,none,,vorhoelzli,,biel
+7.289599,47.1441910975452,vorhoelzli-forest-1,"survey area on right side of path; starting 3 meters before stream pool; extending about 6 meters to the left.
+14-05-2021",mp,be,none,,vorhoelzli,,biel
+7.2903071,47.1425505975452,vorhoelzli-forest-2,12-03-2021;(more); survey area along left side of path starting from forest edge; extending about 20 meters along path; about 5 meters into the forest area.,mp,be,none,,vorhoelzli,,biel
+7.293576,47.1429040975452,vorhoelzli-forest-3,"survey area is clearing behind zurich fitness trail station.
+14-05-2021",mp,be,none,,vorhoelzli,,biel
+7.2882761,47.1466042975452,vorhoelzli-forest-5,28-02-2021; 12-03-2021; surveyed from forest edge to the edge of the trail on the left side of the path; also surveyed first 15 meters of road leading down.,mp,be,,,vorhoelzli,,biel
+7.2895626,47.1550483975452,vorhoelzli-forest-6,28-02-2021; surveyed forest edge and field along path,mp,be,,,vorhoelzli,,biel
+7.290663,47.1428892975452,vorhoelzli-forest-7,12-03-2021; surveyed area in and around logpile,mp,be,,,vorhoelzli,,biel
+7.3000023,47.1607601975452,vorhoelzli-forest-8,,mp,be,,,vorhoelzli,renat-vor,biel
+7.3009035,47.1612579975452,vorhoelzli-forest-9,,mp,be,,,vorhoelzli,,biel
+7.2443245,47.1355634975452,waffengasse-area-1,,mp,be,,,,,biel
+7.2505675,47.1328308975452,zentralastrasse-madretschkanal-1,09-04; 09-03; survey area from access point to first perpindicular road,mp,be,madretschkanal,,,,biel
+7.2983783,47.1622484975452,zuerichstrasse-leugene-1,18-03-2021; surveyed both banks of the leugene between houses and highway,mp,be,,,,,biel
+7.248676,47.1328070975452,"zukunfstrasse
+box 11",05-04-2021,mp,be,,,,,biel
+7.247905,47.1334960975452,zukunfstrasse-box-13,06-04,mp,be,,,,,biel
+7.247779,47.1336050975452,zukunfstrasse-box-14,06-04,mp,be,,,,,biel
+7.248603,47.1328670975452,"zukunftstrasse
+box 12",05-04-2021,mp,be,,,,,biel
+7.248611,47.1327300975452,zukunftstrasse-box-10,,mp,be,,,,,biel
+7.249685,47.1317680975452,zukunftstrasse-box-2,,mp,be,,,,,biel
+7.249624,47.1318270975452,zukunftstrasse-box-3,,mp,be,,,,,biel
+7.249353,47.1321820975452,zukunftstrasse-box-4,,mp,be,,,,,biel
+7.24926,47.1322560975452,zukunftstrasse-box-5,,mp,be,,,,,biel
+7.249165,47.1323410975452,zukunftstrasse-box-6,,mp,be,,,,,biel
+7.249042,47.1323530975452,zukunftstrasse-box-7,,mp,be,,,,,biel
+7.248824,47.1325410975452,zukunftstrasse-box-8,,mp,be,,,,,biel
+7.248722,47.1326530975452,zukunftstrasse-box-9,,mp,be,,,,,biel
+7.249709,47.1316400975452,zukunftstrasse-madretschkanal-1,"surveyed both sides of the river; including the shrubs on the back end.
+28-03-2021",mp,be,madretschkanal,,,,biel
+7.2500195,47.1317456975452,zukunftstrasse-madretschkanal-2,09.03.2021,mp,be,madretschkanal,,,,biel
+7.2497774,47.1316965975452,zunkunftstrasse-box-1,viburnum ferrari,mp,be,madretschkanal,,,,biel
