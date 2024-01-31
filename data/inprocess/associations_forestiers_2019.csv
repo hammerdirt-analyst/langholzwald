@@ -1,0 +1,122 @@
+Ecosystem D,Ecosystem F,Ecosystem I,Scientific name,Typo_CH,Deutsch,Français,Italiano,Prio,RL,Resp,MeasNeed,NaiS
+Buchenwälder,Hêtraies,Fagion silvaticae,01 Luzulo sylvaticae-Fagetum ,6.2.2,Hainsimsen-Buchenwald,Hêtraie à luzule des bois ,Faggeta a Luzula sylvatica,0,LC,0,0,"1,1h"
+Buchenwälder,Hêtraies,Fagion silvaticae,02 Luzulo sylvaticae-Fagetum leucobryetosum,6.2.2,Weissmoos-Buchenwald,Hêtraie à luzule des bois avec Leucobryum ,Faggeta Luzula sylvatica con Leucobryum,3,EN,0,0,-
+Buchenwälder,Hêtraies,Fagion silvaticae,03 Luzulo niveae-Fagetum  ,6.2.2,Schneehainsimsen-Buchenwald,Hêtraie à luzule blanc-de-neige ,Faggeta a Luzula nivea,0,LC,0,0,"3, 3VL, mL"
+Buchenwälder,Hêtraies,Fagion silvaticae,03* Illici-Fagetum ,6.2.3.1,Stechpalmen-Buchenwald,Hêtraie à houx,Faggete ad agrifoglio,4,VU,0,0,"3VL, 3mL-4L"
+Buchenwälder,Hêtraies,Fagion silvaticae,03** Rhododendro-Fagetum ,6.2.3.1,Alpenrosen-Buchenwald,Hêtraie à rhododendron,Faggeta a rododendro,4,VU,0,0,
+Buchenwälder,Hêtraies,Fagion silvaticae,04 Luzulo niveae-Fagetum dryopteridetosum ,6.2.2,Farnreicher Schneeh.-Buchenwald,Hêtraie à luzule blanc-de-neige riche en fougères ,Faggeta a Luzula nivea con felci,0,NT,0,0,"4, 4L"
+Buchenwälder,Hêtraies,Fagion silvaticae,06 Galio-Fagetum luzuletosum ,6.2.3,Hains.-Waldmeister-Buchenwald,Hêtraie à asperule avec luzule,Faggeta ad asperula con erba lucciola,0,LC,0,0,-
+Buchenwälder,Hêtraies,Fagion silvaticae,07 Galio-Fagetum ,6.2.3,Waldmeister-Buchenwald,Hêtraie à asperule ,Faggeta ad asperula,0,LC,0,0,"7a, S"
+Buchenwälder,Hêtraies,Fagion silvaticae,07* Galio-Fagetum blechnetosum,6.2.3,Rippenfarn-Buchenwald,Hêtraie à asperule avec Blechnum spicant,Faggeta ad asperula con Blechnum spicant,0,LC,0,0,-
+Buchenwälder,Hêtraies,Fagion silvaticae,08 Milio-Fagetum ,6.2.4,Waldhirsen-Buchenwald,Hêtraie à millet typique,Faggeta a miglio selvatico,0,LC,0,0,"8a, S"
+Buchenwälder,Hêtraies,Fagion silvaticae,08* Milio-Fagetum blechnetosum ,6.2.4,Rippenfarn-Waldhirsen-Buchenwald,Hêtraie à millet avec Blechnum spicant,Faggeta a miglio selvatico con Blechnum spicant,0,LC,1,0,8*
+Buchenwälder,Hêtraies,Fagion silvaticae,09 Pulmonario-/Lathyro-Fagetum ,6.2.3,Lungenkraut-/Platterbs.-Buchenwald,Hêtraie à pulmonaire typique/Hêtraie à gesse printainière typique,Faggeta a polmonaria / a Lathyrus vernus,0,LC,0,0,"9a,w"
+Buchenwälder,Hêtraies,Fagion silvaticae,10 Melitto-Fagetum  ,6.2.3,Immenblatt-Buchenwald,Hêtraie à mélitte,Faggeta a Melittis,0,LC,0,0,"10a,w"
+Buchenwälder,Hêtraies,Fagion silvaticae,11 Aro-Fagetum ,6.2.3,Aronstab-Buchenwald,Hêtraie à gouet,Faggeta a gigaro scuro,0,LC,1,0,11
+Buchenwälder,Hêtraies,Fagion silvaticae,12 Cardamino-Fagetum ,6.2.4,Zahnwurz-Buchenwald,Hêtraie à dentaire typique,Faggeta a dentaria,0,LC,2,0,"12a,S,e,w"
+Buchenwälder,Hêtraies,Fagion silvaticae,12* Cardamino-Fagetum cyclametosum ,6.2.4,Südalpiner Zahnwurz-Buchenwald,Hêtraie insubrienne sur calcaire,Faggeta insubriche su calcare,4,VU,0,0,"12*, 12*h"
+Buchenwälder,Hêtraies,Fagion silvaticae,13 Tilio-Fagetum ,6.2.4,Linden-Buchenwald,Hêtraie à tilleuil typique,Faggeta a tiglio,0,LC,1,0,"13a,e"
+Buchenwälder,Hêtraies,Fagion silvaticae,13* Adenostylo-Fagetum,6.2.4,Alpendost-Buchenwald,Hêtraie à adénostyle,Faggeta ad Adenostyles,3,VU,1,0,"13h,eh"
+Buchenwälder,Hêtraies,Fagion silvaticae,14 Carici-Fagetum ,6.2.1,Weissseggen-Buchenwald,Hêtraie à laiche blanche typique,Faggeta a Carex alba,0,LC,1,0,"14, 14*"
+Buchenwälder,Hêtraies,Fagion silvaticae,15 Carici-Fagetum caricetosum montanae ,6.2.1,Bergseggen-Buchenwald,Hêtraie à laiches avec laiche des montagnes,Faggeta a Carex alba con Carex montana,0,LC,1,0,15
+Buchenwälder,Hêtraies,Fagion silvaticae,16 Seslerio-Fagetum ,6.2.1,Blaugras-Buchenwald,Hêtraie à seslérie,Faggeta insubrica a sesleria,4,NT,2,1,16
+Buchenwälder,Hêtraies,Fagion silvaticae,17 Taxo-Fagetum ,6.2.1,Eiben-Buchenwald,Hêtraie à if,Faggeta a tasso,0,LC,1,0,17
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,18 Festuco-Abieti-Fagetum ,6.2.5,Waldschwingel-Tannen-Buchenwald,Hêtraie à sapin typique,Abieti-faggeta a festuca dei boschi,0,LC,1,0,18
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,18* Adenostylo glabrae-Abieti-Fagetum ,6.2.5,Kalkreicher Tannen-Buchenwald,Hêtraie à sapin avec adénostyle glabre typique,Abieti-faggeta ad Adenostyles glabra,0,LC,0,0,"18*,18M,W,V"
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,19 Luzulo silvaticae-Abieti-Fagetum ,6.2.5,Hainsimsen-Tannen-Buchenwald,Hêtraie à sapin avec luzule des forêts typique ,Abieti-faggete a erba lucciola,0,LC,0,0,"19,19f,L"
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,19* Laburno-Abieti-Fagetum ,6.2.5,Goldregen-Tannen-Buchenwald,Hêtraie à sapin avec aubours,Abieti-faggeta a maggiociondolo,1,EN,2,0,19L
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,20 Adenostylo alliariae-Abieti-Fagetum ,6.2.5,Hochstauden-Tannen-Buchenwald,Hêtraie à sapin avec ,Abieti-faggete a megaforbie,0,LC,0,0,"20,20E"
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,20*Streptopo-Abieti-Fagetum/Luzulo-Abieti-Fag. petasitetosum ,6.2.5,Knotenfuss-Buchenwald,"Hêtraie avec érable, sapin et hautes herbes",Abieti-faggeta a erba lucciola con Petasites,1,EN,2,0,20*
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,21 Aceri-Fagetum ,6.2.5,Ahorn-Buchenwald,Hêtraie à érable,Faggeta ad acero di monte,4,NT,2,1,21
+Tannen-Buchenwälder,Hêtraies à sapin,Fagion silvaticae,21* Alno viridi-Sorbetum aucupariae ,6.2.5,Grünerlen-Vogelbeerwald,Forêt de sorbiers à aune vert,Sorbeto a ontano verde,3,EN,0,1,21*
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,21** Laburno-Aceretum ,6.2.5,Goldregen-Ahornwald,Erablaie à aubours des Alpes,Acereta a maggiociondolo,1,CR,1,1,-
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,22 Phyllitido-Aceretum ,6.3.1,Hirschzungen-Ahornwald,Erablaie à langue-de-cerf typique,Acereta a scolopendria,4,NT,2,0,22
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,22* Scillo-Fraxinetum ,6.3.1,Blaustern-Eschenwald,Tillaie-frênaie colluviale,Tiglieto a scilla,1,CR,1,2,-
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,22** Arunco-Aceretum ,6.3.1,Geissbart-Ahornwald,Erablaie à reine-des-bois,Acereta a spirea,3,VU,1,1,-
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,22** Corydalido-Aceretum ,6.3.1,Lerchensporn-Ahornwald,Erablaie à corydale,Acereta a Corydalis,2,EN,1,1,22C
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,23 Sorbo-Aceretum ,6.3.1,Mehlbeer-Ahornwald,Erablaie à alisier,Acereta a sorbo montano,2,VU,2,0,23
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,23* Sorbetum ariae ,6.3.1,Mehlbeerwald,Forêt d’alisiers à noisetier,Sorbeto montano rupicolo,2,VU,2,1,23*
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,24 Ulmo-Aceretum asperuletosum taurinae ,6.3.1,Turinermeister-Ahornwald,"Erablaie à orme, variante à aspérule de Turin",Tiglieti ad asperula,2,VU,2,1,-
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,24* Ulmo-Aceretum ,6.3.1,Ulmen-Ahornwald,Erablaie à orme,Acereta a olmo montano,3,EN,0,0,24*
+Ahornwälder,Erablaies,Tilio-Acerion pseudoplatani,24** Hepatico-Aceretum ,6.3.1,Leberblümchen-Ahornwald,Erablaie à hépatique,Acereta a Hepatica,1,EN,2,1,25AF z.T.
+Lindenwälder,Tillaies,Tilio-Acerion pseudoplatani,25 Asperulo taurinae-Tilietum ,6.3.2,Turinermeister-Winterlindenwald,Tillaie à aspérule de Turin,Tiglieti ad asperula,1,VU,3,1,"25, 25e, B"
+Lindenwälder,Tillaies,Tilio-Acerion pseudoplatani,25* Aceri-Tilietum ,6.3.2,Ahorn-Sommerlindenwald,Tillaie à érable,Tiglieto ad acero,1,EN,2,2,25*
+Lindenwälder,Tillaies,Tilio-Acerion pseudoplatani,25** Luzulo niveae-Tilietum ,6.3.2,Schneehainsimsen-Winterlindenwald,Tillaie à luzule blanc-de-neige,Tiglieto a erba lucciola,2,VU,2,1,"25, 25AF"
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,26 Aceri-Fraxinetum ,6.1.4,Ahorn-Eschenwald,Frênaie à érable typique,Frassineti ad acero,0,LC,0,1,"26, 26h"
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,27 Carici remotae-Fraxinetum ,6.1.4,Seggen-Bacheschenwald,Frênaie à laiche,Frassineti ripari,0,LC,1,1,"27, 27h"
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,27* Adenostylo-Alnetum incanae ,6.1.4,Ahorn-Grauerlenwald,Aunaie à érable,Ontaneto bianco di pendio con acero e megaforbie,2,EN,1,1,27*
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,27** Osmundo-Fraxinetum ,6.1.4,Königsfarn-Schw.-Eschenquellwald,Forêts mixtes sur substrat humide et aulnaies à osmonde,Ontaneto nero con felce florida,2,CR,0,2,-
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,28 Ulmo-Fraxinetum ,6.1.4,Ulmen-Eschenhartholzauenwald ,Frênaie à orme typique,Foresta golenale di frassino e olmo,4,VU,0,2,-
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,29 Ulmo-Fraxinetum listeretosum ,6.1.4,Zweiblatt-Eschenmischwald,Frênaie à orme avec listère,Foreste golenali di frassino e olmo di transizione,0,NT,0,2,29
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,30 Pruno-Fraxinetum ,6.1.4,Traubenkirschen-Eschenmischwald,Frênaie à merisier à grappes,Frassineto planiziale su suoli fradici,4,VU,0,2,30
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,31 Equiseto-Alnetum incanae ,6.1.3,Mittelland-Grauerlenauenwald,Aulnaie à prêle,Ontaneto bianco di basso corso,1,EN,2,2,-
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Alno-Ulmion,32 Calamagrostio-Alnetum incanae ,6.1.3,Montaner Grauerlenauenwald,Aulnaie riveraine,Ontaneto bianco di alto corso,2,VU,2,1,-
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Salicion eleagni,32* Alno-Salicetum pentandrae ,6.1.3.1; (5.3.6),Subalpiner Lorbeerweidenauenwald,Saulaie à saule laurier,Saliceto subalpino a salice odoroso,1,CR,3,2,-
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,33 Arunco-Fraxinetum castanosum ,6.3.3,Kastanienr. Geissbart-Eschenm.wald,Frênaie mixte à reine-des-bois avec châtaignier,Frassineti misti e castagneti con felci esigenti,4,NT,1,2,"33A,AV,m,B"
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,34 Cruciato glabrae-Quercetum castanosum ,6.3.3,Kastanienr. Kreuzl.-Eichenmischwald,Chênaie à châtaignier avec tilleul,Castagneti misti con tiglio e rovere senza felci esigenti,4,NT,1,1,"34B, 25A-34mA"
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,35 Galio-Carpinetum  ,6.3.3,Waldlabkraut-Hagebuchenwald,Charmaie à gaillet des bois,Carpineto a caglio dei boschi,0,NT,0,1,35
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,35* Stellario-Carpinetum ,6.3.3,Sternmieren-Stieleichenwald,Chênaie à gouet,Bosco di farnia a Stellaria holostea,3,EN,0,2,35A
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,35** Scillo-Carpinetum ,6.3.3,Blaustern-Hagebuchenmischwald,Charmaie à scille,Carpineto a scilla ricco di geofite,2,CR,0,2,35S
+Eichen-Hainbuchenwälder,Chênaies (à charmes),Carpinion betuli,36 Carpino betuli-Ostryetum  ,6.3.3,Hagebuchen-Hopfenbuchenwald,Forêt mixte à charme-houblon et charme,Ostrieto mesofilo,4,NT,1,1,36
+Mannaeschen-Hopfenbuchenwälder,Forêt à charme-houblon et orne,Orno-Ostryon,37 Fraxino orni-Ostryetum  ,6.3.5,Mannaeschen-Hopfenbuchenwald,Forêt mixte à charme-houblon et orne,Ostrieto xerofilo con orniello,2,VU,2,1,37
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,38 Campanulo trachelii-Quercetum  ,6.3.4,Nesselglockenblumen-Flaume.wald,Chênaie à campanule gantelée,Querceto a Campanula selvatica,1,EN,2,2,-
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,38 Saponario-Quercetum  ,6.3.4,Seifenkraut-Flaumeichenwald,Chênaie à saponaire,Querceto a saponaria,2,VU,2,2,38S
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,38* Allio lusitanici-Quercetum  ,6.3.4,Insubrischer Silikatflaumeichenwald,Chênaie à ail des montagnes,Querceto rupicolo di roverella su silicati,1,CR,1,2,-
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,38* Asperulo purpurei-Quercetum  ,6.3.4,Insubrischer Kalkflaumeichenwald,Chênaie à aspérule pourpre,Querceto rupicolo di eoverella ad Asperula purpurea,1,CR,1,2,38*
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,39 Coronillo-Quercetum  ,6.3.4,Strauchkronwicken-Flaumeichenwald,Chênaie à coronille,Querceto a Coronilla,2,VU,2,2,39
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,39* Rhamno-Quercetum  ,6.3.4,Alpenkreuzdorn-Flaumeichenwald,Chênaie à nerprun des Alpes,Querceto a Rhamnus alpina,2,VU,2,2,39*
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,40 Teucrio-Quercetum  ,6.3.4,Edelgamander-Traubeneichenwald,Chênaie à germandrée,Querceto a Teucrium,1,VU,4,2,40*
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,41 Lathyro-Quercetum ,6.3.4,Platterbsen-Traubeneichenwald,Chênaie à gesse noir,Querceto a Lathyrus,1,EN,2,2,41
+Flaumeichenwälder,Chênaies buissonnantes,Quercion pubescenti-petreae,41* Luzulo-Quercetum ,6.3.4,Hainsimsen-Traubeneichenwald,Chênaie à luzule,Querceto a erba lucciola,2,CR,0,2,41*
+West- und Mitteleuropäische Eichen-Birkenwälder,,Quercion robori-petreae,42 Phyteumo-Quercetum castanosum ,6.3.6,Kastanienr. Rapunzel-Traubene.wald,Chênaie à châtaignier ,Querco-castagneti oligotrofi,0,LC,1,1,"42R,C,Q/V, (42)-34A"
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Salicion albae,43 Salicetum albae ,6.1.2,Silberweidenauenwald,Saulaie blanche,Saliceto bianco di basso corso,3,EN,0,2,-
+Auen- und Nasswälder,Forêts alluviales et forêts humides,Salicion eleagni,43* Coronillo-Populetum nigrae ,6.1.3; (6.1.2; 6.1.3.1),Insubrischer Schwarzp.auenwald,Peupleraie à coronille,Pioppeto nero insubrico,1,CR,1,2,-
+Schwarzerlenbruchwälder,Forêts alluviales et forêts humides,Alnion glutinosae,44 Carici elongatae-Alnetum glutinosae ,6.1.1,Seggen-Schwarzerlenbruchwald,Aulnaie marécageuse à laiche,Bosco palustre di ontano nero,3,EN,0,2,44
+Moorbirkenbruchwälder,Forêts alluviales et forêts humides,Betulion pubescentis,45 Pino-Betuletum pubescentis ,6.5.1,Föhren-Birkenbruchwald,Forêt marécageuse à bouleau pubescent,Bosco di palude con betulla e pino,3,EN,0,2,45
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,46 Bazzanio-Abieti-Piceetum ,6.6.1,Peitschenmoos-Tannen-Fichtenwald,Pessière-sapinière à bazzanie,Abieti-pecceta a Bazzania,0,LC,0,0,46t
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,46* Vaccinio myrtilli-Abieti-Piceetum ,6.6.1,Mont. Plateau-Tannen-Fichtenwald,Pessière-sapinière à myrtille,Abieti-peccete a mirtillo nero,0,LC,2,0,"46,46M,46*"
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,47 Calamagrostio villosae-Abieti-Piceetum ,6.6.1,Wollreitgras-Tannen-Fichtenwald,Pessière-sapinière à calamagrostide velue typique,Abieti-peccete a cannella,0,LC,1,0,47
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,47* Rhododendro-Abietetum ,6.6.1,Alpenrosen-Tannenwald,Sapinière à mélèze avec rhododendron,Abetina con larice e rododendro,3,EN,0,0,47*
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,48 Asplenio-Abieti-Piceetum ,6.6.1,Blockschutt-Tannen-Fichtenwald,Pessière-sapinière à asplénium sur gros blocs,Abieti-pecceta su blocchi,0,LC,2,0,48
+Fichtenwälder,Pessières,Piceion abietis,48* Hypno- und Polypodio-Piceetum  ,6.6.1,Silikatblockschutt-Fichtenwald,Pessière à hypne cyprès,Pecceta xerofila su blocchi,3,EN,0,0,47H
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,49 Equiseto-Abieti-Piceetum ,6.6.1,Schachtelhalm-Tannen-Fichtenwald,Pessière-sapinière à prêle,Abieti-peccete a equiseto,0,LC,1,0,"49,49*"
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,50 Adenostylo-Abieti-Piceetum ,6.6.1,Hochstauden-Tannen-Fichtenwald,Pessière-sapinière à adénostyle,Abieti-peccete a megaforbie,0,LC,2,0,"50,50P"
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,50* Adenostylo glabrae-Abieti-Piceetum ,6.6.1,Karbonat-Tannen-Fichtenwald ,Pessière-sapinière à adénostyle glabre,Abieti-pecceta dei suoli carbonatici,0,LC,2,0,50*
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,51 Galio-Abieti-Piceetum ,6.6.1,Labkraut-Tannen-Fichtenwald,Pessière-sapinière à gaillet,Abieti-peccete a Galium rotundifolium,0,LC,2,0,"51,51C"
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,52 Carici albae-Abieti-Piceetum ,6.6.1,Weissseggen-Tannen-Fichtenwald,Pessière-sapinière à laiche blanche,Abieti-pecceta dei suoli carbonatici con Carex alba,0,LC,2,0,52
+Fichtenwälder,Pessières,Piceion abietis,53 Polygalo chamaebuxi-Piceetum,6.6.2,Zwergbuchs-Fichtenwald,Pessière à polygale petit buis,Pecceta a poligala,2,VU,2,0,53
+Kalkreiche Föhrenwälder,Pinèdes,Erico-Pinion ,53* Erico-Piceetum ,6.4.2,Erika-Fichtenwald,Pessière à bruyère,Pecceta a erica,2,VU,2,0,53*
+Fichtenwälder,Pessières,Piceion abietis,54 Melico-Piceetum ,6.6.2,Perlgras-Fichtenwald,Pessière à mélique typique,Pecceta a melica,4,NT,2,0,54
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,55 Veronico-Piceetum ,6.6.2,Ehrenpreis-Fichtenwald,Pessière à véronique,Pecceta a veronica,0,LC,1,0,55
+Fichtenwälder,Pessières,Piceion abietis,55* Luzulo niveae-Piceetum ,6.6.2,Schneehainsimsen-Fichtenwald,Pessière à luzule blanc-de-neige,Pecceta a erba lucciola,0,NT,0,0,55*
+Fichtenwälder,Pessières,Piceion abietis,56 Sphagno-Piceetum ,6.5.3,Torfmoos-Fichtenwald,Pessière à sphaignes typique,Pecceta di torbiera con sfagni,3,VU,1,1,56
+Fichtenwälder,Pessières,Piceion abietis,57 Homogyno-Piceetum ,6.6.2,Subalpiner Heidelbeer-Fichtenwald,Pessière  à homogyne,Peccete a Homogyne,0,LC,2,0,"57V,C,S,M, Bl"
+Fichtenwälder,Pessières,Piceion abietis,58 Larici-Piceetum ,6.6.2,Subalpiner Preiselbeer-Fichtenwald,Pessière à airelle,Peccete a mirtillo rosso,0,LC,2,0,"58,58C,L"
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59 Adenostylo-Laricetum ,6.6.3,Hochstauden-Lärchenwald,Mélézin à adénostyle,Peccete a megaforbie,4,LC,3,0,59A
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59 Larici-Pinetum cembrae ,6.6.3,Typischer Lärchen-Arvenwald,Forêt de mélèzes et d’aroles,Boschi di larice e pino cembro,4,LC,3,0,"59,59V,59L"
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59 Rhododendro ferruginei-Laricetum ,6.6.3,Alpenrosen-Lärchenwald,Mélézin à rhododendron,Lariceto a rododendro,4,LC,3,0,59*
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59 Seslerio-Laricetum ,6.6.3,Blaugras-Lärchenwald,Mélézin à seslérie,Lariceto a sesleria,1,CR,1,0,-
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59* Cotoneastro-Pinetum cembrae ,6.6.3,Steinmispel-Arvenwald,Arolière à cotonéaster,Cembreta a cotognastro,2,VU,2,0,59C
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,59** Junipero-Laricetum  ,6.6.3,Insubrischer Lärchenwald,Mélézin à genévrier,Lariceto a ginepro,4,LC,3,0,59J
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,60 Adenostylo-Piceetum,6.6.1,Subalpiner Alpendost-Fichtenwald,Pessière à hautes herbes typique,Lariceto a megaforbie,0,LC,2,0,"60,60A,E"
+Tannen-Fichtenwälder,Pessières-sapinières,Piceion abietis,60* Calamagrostio variae-Abieti-Piceetum ,6.6.1,Buntreitgras-Fichtenwald,Pessière-sapinière à calamagrostide bigarrée,Pecceta a cannella comune,4,LC,3,0,60*
+Pfeifengras-Föhrenwälder,Pinèdes,Molinio-Pinion,61 Molinio-Pinetum ,6.4.1,Pfeifengras-Föhrenwald,Pinède à molinie,Pineta a Molinia tipica,1,EN,2,2,61
+Pfeifengras-Föhrenwälder,Pinèdes,Molinio-Pinion,62 Cephalanthero-Pinetum ,6.4.1,Orchideen-Föhrenwald,Pinède à orchidées,Pineta a orchidee,2,VU,2,2,62
+Pfeifengras-Föhrenwälder,Pinèdes,Molinio-Pinion,63 Cirsio tuberosi-Pinetum mugo ,6.4.1,Knollendistel-Bergföhrenwald,Pinède de montagne à cirse,Pineta a Cirsium tuberosum,1,CR,3,1,-
+Subkontinentale Föhrenwälder,Pinèdes,Cytiso-Pinion,64 Cytiso-Pinetum ,6.4.2.1,Geissklee-Föhrenwald,Pinède à cytise,Pineta a Cytisus,1,CR,3,2,-
+Kalkreiche Föhrenwälder,Pinèdes,Erico-Pinion ,65 Coronillo-Pinetum ,6.4.2,Kronwicken-Föhrenwald,Pinède à coronille,Pineta a coronilla,1,EN,3,1,65
+Kalkreiche Föhrenwälder,Pinèdes,Erico-Pinion ,65 Erico-Pinetum ,6.4.2,Erika-Föhrenwald,Pinède à bruyère,Pineta a erica,4,NT,2,1,65
+Kalkreiche Föhrenwälder,Pinèdes,Erico-Pinion ,65 Fraxino-Pinetum ,6.4.2,Eschen-Föhrenwald,Pinède à frêne,Pineta con frassino,2,EN,1,2,65
+Zentralalpine Föhrenwälder,Pinèdes,Ononido-Pinion ,65* Odontito-Pinetum ,6.4.3,Zahntrost-Föhrenwald,Pinède à odontite visqueux,Pineta a Odontites viscosus,1,EN,4,1,-
+Zentralalpine Föhrenwälder,Pinèdes,Ononido-Pinion ,65* Ononido-Pinetum ,6.4.3,Hauhechel-Föhrenwald,Pinède à bugrane,Pineta a Ononis rotundifolia,4,LC,3,1,65*
+Subkontinentale Föhrenwälder,Pinèdes,Cytiso-Pinion,66 Pyrolo- und Ligustro-Pinetum ,6.4.2,Wintergrün- u. Liguster-Föhrenwald,Pinède à pyrole et pineraie à troène vulgaire,Pineta a ligustro e Pineta a piroletta,1,CR,2,2,-
+Kalkreiche Bergföhrenwälder,Pinèdes,Erico-Pinion ,67 Erico-Pinetum mugo,6.6.5.2,Erika-Bergföhrenwald,Pinède de montagne à bruyère,Mugheta a erica,4,LC,3,0,67
+Kalkreiche Föhrenwälder,Pinèdes,Erico-Pinion ,67* Carici humilis-Pinetum engadinensis ,6.6.5.2,Erdseggen-Engadinerföhrenwald,Pinède d’Engadine à laiche humble,Mugheta engadinese a Carex humilis,1,EN,4,1,-
+Bodensaure Moos-Föhrenwälder,Pinèdes,Dicrano-Pinion,68 Calluno-Pinetum ,6.4.4,Besenheide-Föhrenwald,Pinède à callune,Pineta a brugo,2,VU,2,1,68
+Bodensaure Moos-Föhrenwälder,Pinèdes,Dicrano-Pinion,68* Avenello-Pinetum ,6.4.4,Drahtschmielen-Föhrenwald,Pinède à canche flexueuse,Pineta ad avenella flessuosa,1,EN,3,1,-
+Bodensaure Moos-Föhrenwälder,Pinèdes,Dicrano-Pinion,68** Vaccinio vitis-ideae-Pinetum ,6.4.4,Preiselbeer-Föhrenwald,Pinède à airelle,Pineta a mirtillo rosso,3,EN,0,1,68*
+Föhren (Bergföhren)wälder,Pinèdes,Erico-Pinion ,69 Rhododendro hirsuti-Pinetum mugo ,6.6.5,Steinrosen-Bergföhrenwald,Pinède de montagne à rhododendron cilié,Mugheta a rododendro irsuto,2,VU,2,0,69
+Bodensaure Bergföhrenwälder,Pinèdes,Vaccinio-Pinion mugo,70 Rhododendro ferruginei-Pinetum mugo ,6.6.5.1,Alpenrosen-Bergföhrenwald,Pineraie de montagne à rhododendron ferrugineux,Mugheta a rododendro rosso,2,VU,2,0,70
+Bodensaure Bergföhrenwälder,Pinèdes,Vaccinio-Pinion mugo,70*Huperzio-Pinetum mugo,6.6.5.1,Bärlapp-Bergföhrenwald,Pineraie de montagne à lycopode sélagine,Mugheta a licopodio,1,CR,3,1,70*
+Torfmoos-Bergföhrenwald,Pinèdes,Ledo-Pinion,71 Sphagno-Pinetum mugo ,6.5.2,Torfmoos-Bergföhrenwald,Pineraie de montagne à sphaignes,Mugheta di torbiera con sfagni,2,VU,2,2,71
+Lärchen-Arvenwälder,Forêts de mélèzes et d'aroles,Piceion abietis,72 Sphagno-Pinetum cembrae ,6.6.3,Nordalpen-Arvenwald,Arolière des Alpes du Nord,Cembreta nordalpina,1,EN,3,0,72

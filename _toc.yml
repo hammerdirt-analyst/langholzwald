@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+options:
+  only_build_toc_files: true
+parts:
+- caption: References
+  numbered: true
+  chapters:
+  - file: references
+ 
