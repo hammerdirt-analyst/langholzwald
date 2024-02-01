@@ -3,7 +3,11 @@ root: index
 options:
   only_build_toc_files: true
 parts:
-- caption: References
+- caption: Situation
+  numbered: true
+  chapters:
+  - file: donnees
+- caption: Annexe
   numbered: true
   chapters:
   - file: references
