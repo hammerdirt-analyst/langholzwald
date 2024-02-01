@@ -1,0 +1,867 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>1. Données &#8212; Längholzwald</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'donnees';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="2. References et publications" href="references.html" />
+    <link rel="prev" title="Langholzwald" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">Längholzwald</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Situation</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">1. Données</a></li>
+<li class="toctree-l1"><a class="reference internal" href="references.html">2. References et publications</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/hammerdirt-analyst/langholzwald" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/hammerdirt-analyst/langholzwald/issues/new?title=Issue%20on%20page%20%2Fdonnees.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Données</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infospecies">1.1. Infospecies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#global-biodiversity-information-facility-gbif">1.2. Global Biodiversity Information Facility (GBIF)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#l-ilot-de-chaleur-urbain">1.3. L’îlot de chaleur urbain</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dechets">1.4. Dechets</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<div class="cell tag_remove-input docutils container">
+</div>
+<section class="tex2jax_ignore mathjax_ignore" id="donnees">
+<h1><span class="section-number">1. </span>Données<a class="headerlink" href="#donnees" title="Permalink to this heading">#</a></h1>
+<p>Le <em>Plan d’action pour la conservation d’espèces cibles dans les forêts claires</em> est basé sur des recherches menées par des experts dans le domaine de la sylviculture et de la biodiversité. La mise en œuvre de ce plan s’appuie sur trois sources principales de données (page 8 Plan d’action):</p>
+<ol class="arabic simple">
+<li><p>Liste et descriptions des associations forestières selon NaiS (Frehner et al. 2005), <a class="reference external" href="https://www.bafu.admin.ch/bafu/fr/home/themes/biodiversite/publications/publications-biodiversite/liste-especes-prioritaires-nationales.html">OFEV biodiversité</a></p></li>
+<li><p>Liste des milieux naturels prioritaires au niveau national (OFEV 2019), <a class="reference external" href="https://www.bafu.admin.ch/bafu/fr/home/themes/biodiversite/publications/publications-biodiversite/liste-especes-prioritaires-nationales.html">OFEV biodiversité</a></p></li>
+<li><p>Bases de données d’InfoSpecies, <a class="reference external" href="https://www.infospecies.ch/fr/donnees/">demande de données</a></p></li>
+</ol>
+<p>Ces données sont accessibles au public. Dans les cas 1 et 2, les données sont la synthèse des observations et des connaissances spécifiques au domaine par des experts mandatés par la confédération et peuvent être téléchargées directement. Les données sur les espèces, quant à elles, sont une base de données d’observations du public gérée par Infospecies. Infospecies est l’association faîtière des Centres de données et d’informations et des Centres de coordination pour la conservation des espèces.</p>
+<p><strong>Cartes</strong></p>
+<p>Les cartes sont les couches composites de swissTLM3D, version 2.1. Les fichiers .shp utilisés sont disponibles dans le dossier cartographie du dépôt de l’application. Les cartes originales peuvent être téléchargées de l’Office fédéral de topographie à l’adresse suivante <a class="reference external" href="https://www.swisstopo.admin.ch/fr/modele-du-territoire-swisstlm3d">swissTLM3D</a></p>
+<section id="infospecies">
+<h2><span class="section-number">1.1. </span>Infospecies<a class="headerlink" href="#infospecies" title="Permalink to this heading">#</a></h2>
+<p>Résolution des données Infospecies: les donées gratuites sont dans une résolution de 5x5 km.  Chaque carré de 5 km a un numéro d’identification à six chiffres qui peut être utilisé pour demander des données à la base de données infospecies.</p>
+<p>Les identifiants de grille pour Langholzwald :</p>
+<ol class="arabic simple">
+<li><p>585220 Langholzli and vorholzli</p></li>
+<li><p>585215 langholzli sud</p></li>
+</ol>
+<p>Pour l’identification des espèces dans le Langholzwald, la résolution doit être plus grande. Cependant, nous pouvons nous faire une idée des espèces identifiées dans la région en considérant toutes les observations qui se trouvent à l’intérieur des deux carrés de la grille.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-1 sd-row-cols-lg-1 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<p><span class="output text_html"><style type="text/css">
+#T_7546a tr:nth-child(even) {
+  background-color: rgba(139, 69, 19, 0.08);
+}
+#T_7546a tr:nth-child(odd) {
+  background: #FFF;
+}
+#T_7546a tr {
+  font-size: 14px;
+  padding: 6px;
+}
+#T_7546a th:nth-child(1) {
+  background-color: #FFF;
+  white-space: nowrap;
+  word-break: keep-all;
+}
+#T_7546a td {
+  padding: 4px;
+  text-align: center;
+}
+#T_7546a caption {
+  caption-side: bottom;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 14px;
+}
+</style>
+<table id="T_7546a">
+  <caption><b>Table D-1 :</b> Exemple de données pour la grille 585215 d'Infospecies: Infoflora. </caption>
+  <thead>
+    <tr>
+      <th id="T_7546a_level0_col0" class="col_heading level0 col0" >Taxon_id</th>
+      <th id="T_7546a_level0_col1" class="col_heading level0 col1" >Isfs</th>
+      <th id="T_7546a_level0_col2" class="col_heading level0 col2" >Espèce</th>
+      <th id="T_7546a_level0_col3" class="col_heading level0 col3" >Code ws</th>
+      <th id="T_7546a_level0_col4" class="col_heading level0 col4" >Introduite</th>
+      <th id="T_7546a_level0_col5" class="col_heading level0 col5" >Nb. obs.</th>
+      <th id="T_7546a_level0_col6" class="col_heading level0 col6" >Années (min)</th>
+      <th id="T_7546a_level0_col7" class="col_heading level0 col7" >Années (max)</th>
+      <th id="T_7546a_level0_col8" class="col_heading level0 col8" >Douteuse (?)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_7546a_row0_col0" class="data row0 col0" >1'000'000</td>
+      <td id="T_7546a_row0_col1" class="data row0 col1" >100,00</td>
+      <td id="T_7546a_row0_col2" class="data row0 col2" >Abies alba Mill.</td>
+      <td id="T_7546a_row0_col3" class="data row0 col3" >Fréquent</td>
+      <td id="T_7546a_row0_col4" class="data row0 col4" >Indigène</td>
+      <td id="T_7546a_row0_col5" class="data row0 col5" >4</td>
+      <td id="T_7546a_row0_col6" class="data row0 col6" >1'982</td>
+      <td id="T_7546a_row0_col7" class="data row0 col7" >2'023</td>
+      <td id="T_7546a_row0_col8" class="data row0 col8" >nan</td>
+    </tr>
+    <tr>
+      <td id="T_7546a_row1_col0" class="data row1 col0" >1'000'010</td>
+      <td id="T_7546a_row1_col1" class="data row1 col1" >130,00</td>
+      <td id="T_7546a_row1_col2" class="data row1 col2" >Abies nordmanniana (Steven) Spach</td>
+      <td id="T_7546a_row1_col3" class="data row1 col3" >-</td>
+      <td id="T_7546a_row1_col4" class="data row1 col4" >Néophyte</td>
+      <td id="T_7546a_row1_col5" class="data row1 col5" >1</td>
+      <td id="T_7546a_row1_col6" class="data row1 col6" >2'022</td>
+      <td id="T_7546a_row1_col7" class="data row1 col7" >2'022</td>
+      <td id="T_7546a_row1_col8" class="data row1 col8" >nan</td>
+    </tr>
+    <tr>
+      <td id="T_7546a_row2_col0" class="data row2 col0" >1'000'020</td>
+      <td id="T_7546a_row2_col1" class="data row2 col1" >150,00</td>
+      <td id="T_7546a_row2_col2" class="data row2 col2" >Abutilon theophrasti Medik.</td>
+      <td id="T_7546a_row2_col3" class="data row2 col3" >-</td>
+      <td id="T_7546a_row2_col4" class="data row2 col4" >Néophyte</td>
+      <td id="T_7546a_row2_col5" class="data row2 col5" >1</td>
+      <td id="T_7546a_row2_col6" class="data row2 col6" >2'017</td>
+      <td id="T_7546a_row2_col7" class="data row2 col7" >2'017</td>
+      <td id="T_7546a_row2_col8" class="data row2 col8" >nan</td>
+    </tr>
+    <tr>
+      <td id="T_7546a_row3_col0" class="data row3 col0" >1'000'070</td>
+      <td id="T_7546a_row3_col1" class="data row3 col1" >300,00</td>
+      <td id="T_7546a_row3_col2" class="data row3 col2" >Acer campestre L.</td>
+      <td id="T_7546a_row3_col3" class="data row3 col3" >Fréquent</td>
+      <td id="T_7546a_row3_col4" class="data row3 col4" >Indigène</td>
+      <td id="T_7546a_row3_col5" class="data row3 col5" >14</td>
+      <td id="T_7546a_row3_col6" class="data row3 col6" >1'982</td>
+      <td id="T_7546a_row3_col7" class="data row3 col7" >2'023</td>
+      <td id="T_7546a_row3_col8" class="data row3 col8" >nan</td>
+    </tr>
+    <tr>
+      <td id="T_7546a_row4_col0" class="data row4 col0" >1'000'120</td>
+      <td id="T_7546a_row4_col1" class="data row4 col1" >700,00</td>
+      <td id="T_7546a_row4_col2" class="data row4 col2" >Acer platanoides L.</td>
+      <td id="T_7546a_row4_col3" class="data row4 col3" >Fréquent</td>
+      <td id="T_7546a_row4_col4" class="data row4 col4" >Indigène</td>
+      <td id="T_7546a_row4_col5" class="data row4 col5" >3</td>
+      <td id="T_7546a_row4_col6" class="data row4 col6" >1'982</td>
+      <td id="T_7546a_row4_col7" class="data row4 col7" >2'022</td>
+      <td id="T_7546a_row4_col8" class="data row4 col8" >nan</td>
+    </tr>
+  </tbody>
+</table>
+</span></p>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<img alt="background image" class="sd-card-img" src="_images/initial_map.jpeg" />
+<div class="sd-card-img-overlay docutils">
+<div class="sd-card-body docutils">
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<p><strong>Carte 1 :</strong> Examen initial des données accessibles au public. Les données pour le Lanhholzwald sont réparties entre deux carrés de grille (585220 et 585215). Notez que les données sur les espèces peuvent provenir de n’importe quel point de la grille.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="global-biodiversity-information-facility-gbif">
+<h2><span class="section-number">1.2. </span>Global Biodiversity Information Facility (GBIF)<a class="headerlink" href="#global-biodiversity-information-facility-gbif" title="Permalink to this heading">#</a></h2>
+<p>Selon Infospecies, les données sont aussi disponible sur <a class="reference external" href="https://www.gbif.org/">GBIF</a>. La source de ces données sur GBIF est le <em>Swiss National Biodiversity Data and Information Center</em>. Il s’agit d’une combinaison de données provenant de dix banques de données nationales différentes.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-2 sd-row-cols-lg-2 docutils">
+<div class="sd-col sd-d-flex-column sd-col-12 sd-col-xs-12 sd-col-sm-12 sd-col-md-8 sd-col-lg-8 docutils">
+<p><span class="output text_html"><style type="text/css">
+#T_86534 tr:nth-child(even) {
+  background-color: rgba(139, 69, 19, 0.08);
+}
+#T_86534 tr:nth-child(odd) {
+  background: #FFF;
+}
+#T_86534 tr {
+  font-size: 14px;
+  padding: 6px;
+}
+#T_86534 th:nth-child(1) {
+  background-color: #FFF;
+  white-space: nowrap;
+  word-break: keep-all;
+}
+#T_86534 td {
+  padding: 4px;
+  text-align: center;
+}
+#T_86534 caption {
+  caption-side: bottom;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 14px;
+}
+</style>
+<table id="T_86534">
+  <caption><b>Table D-2 :</b> Origine des observations d'espèces répertoriées sur le GBIF, nombre d'observations dans les grilles 585215 et 585220 = 24'567. </caption>
+  <thead>
+    <tr>
+      <th class="blank level0" >&nbsp;</th>
+      <th id="T_86534_level0_col0" class="col_heading level0 col0" >Nombre de données</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="T_86534_level0_row0" class="row_heading level0 row0" >Swiss national dragonflies databank</th>
+      <td id="T_86534_row0_col0" class="data row0 col0" >946</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row1" class="row_heading level0 row1" >Swiss national apoidea databank</th>
+      <td id="T_86534_row1_col0" class="data row1 col0" >4</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row2" class="row_heading level0 row2" >Swiss national fungi databank</th>
+      <td id="T_86534_row2_col0" class="data row2 col0" >1'318</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row3" class="row_heading level0 row3" >Swiss national databank of vascular plants</th>
+      <td id="T_86534_row3_col0" class="data row3 col0" >16'965</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row4" class="row_heading level0 row4" >Swiss national coleoptera databank</th>
+      <td id="T_86534_row4_col0" class="data row4 col0" >487</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row5" class="row_heading level0 row5" >Swiss national grasshoppers databank</th>
+      <td id="T_86534_row5_col0" class="data row5 col0" >496</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row6" class="row_heading level0 row6" >Swiss national mammal databank</th>
+      <td id="T_86534_row6_col0" class="data row6 col0" >923</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row7" class="row_heading level0 row7" >Swiss national amphibian databank</th>
+      <td id="T_86534_row7_col0" class="data row7 col0" >1'306</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row8" class="row_heading level0 row8" >Swiss national butterflies and forester moths databank</th>
+      <td id="T_86534_row8_col0" class="data row8 col0" >1'276</td>
+    </tr>
+    <tr>
+      <th id="T_86534_level0_row9" class="row_heading level0 row9" >Swiss national moths databank</th>
+      <td id="T_86534_row9_col0" class="data row9 col0" >846</td>
+    </tr>
+  </tbody>
+</table>
+</span></p>
+</div>
+<div class="sd-col sd-d-flex-row sd-col-12 sd-col-xs-12 sd-col-sm-12 sd-col-md-4 sd-col-lg-4 docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<div class="sd-card-body docutils">
+<p class="sd-card-text">Global Biodiversity Information Facility (Système mondial d’information sur la biodiversité)—est un réseau international et une infrastructure de données financés par les gouvernements mondiaux ayant pour but de fournir à tous et partout un accès libre aux données sur toutes les formes de vie sur Terre.</p>
+<p class="sd-card-text">Citation: <a class="reference external" href="http://GBIF.org">GBIF.org</a> (29 January 2024) GBIF Occurrence Download  <a class="reference external" href="https://doi.org/10.15468/dl.fnsqgf">https://doi.org/10.15468/dl.fnsqgf</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-1 sd-row-cols-lg-1 docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<p><span class="output text_html"><style type="text/css">
+#T_2ced5 tr:nth-child(even) {
+  background-color: rgba(139, 69, 19, 0.08);
+}
+#T_2ced5 tr:nth-child(odd) {
+  background: #FFF;
+}
+#T_2ced5 tr {
+  font-size: 14px;
+  padding: 6px;
+}
+#T_2ced5 th:nth-child(1) {
+  background-color: #FFF;
+  white-space: nowrap;
+  word-break: keep-all;
+}
+#T_2ced5 td {
+  padding: 4px;
+  text-align: center;
+}
+#T_2ced5 caption {
+  caption-side: bottom;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 14px;
+}
+</style>
+<table id="T_2ced5">
+  <caption><b>Table D-3 :</b> Exemple de données du GBIF utilisant les vertices des grilles 585215 et 585220 pour définir la surface. </caption>
+  <thead>
+    <tr>
+      <th id="T_2ced5_level0_col0" class="col_heading level0 col0" >Kingdom</th>
+      <th id="T_2ced5_level0_col1" class="col_heading level0 col1" >Phylum</th>
+      <th id="T_2ced5_level0_col2" class="col_heading level0 col2" >Class</th>
+      <th id="T_2ced5_level0_col3" class="col_heading level0 col3" >Order</th>
+      <th id="T_2ced5_level0_col4" class="col_heading level0 col4" >Family</th>
+      <th id="T_2ced5_level0_col5" class="col_heading level0 col5" >Genus</th>
+      <th id="T_2ced5_level0_col6" class="col_heading level0 col6" >Species</th>
+      <th id="T_2ced5_level0_col7" class="col_heading level0 col7" >Latitude</th>
+      <th id="T_2ced5_level0_col8" class="col_heading level0 col8" >Longitude</th>
+      <th id="T_2ced5_level0_col9" class="col_heading level0 col9" >Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_2ced5_row0_col0" class="data row0 col0" >Animalia</td>
+      <td id="T_2ced5_row0_col1" class="data row0 col1" >Arthropoda</td>
+      <td id="T_2ced5_row0_col2" class="data row0 col2" >Insecta</td>
+      <td id="T_2ced5_row0_col3" class="data row0 col3" >Coleoptera</td>
+      <td id="T_2ced5_row0_col4" class="data row0 col4" >Scarabaeidae</td>
+      <td id="T_2ced5_row0_col5" class="data row0 col5" >Oxythyrea</td>
+      <td id="T_2ced5_row0_col6" class="data row0 col6" >Oxythyrea funesta</td>
+      <td id="T_2ced5_row0_col7" class="data row0 col7" >47,15</td>
+      <td id="T_2ced5_row0_col8" class="data row0 col8" >7,27</td>
+      <td id="T_2ced5_row0_col9" class="data row0 col9" >2023-04-04</td>
+    </tr>
+    <tr>
+      <td id="T_2ced5_row1_col0" class="data row1 col0" >Animalia</td>
+      <td id="T_2ced5_row1_col1" class="data row1 col1" >Arthropoda</td>
+      <td id="T_2ced5_row1_col2" class="data row1 col2" >Insecta</td>
+      <td id="T_2ced5_row1_col3" class="data row1 col3" >Coleoptera</td>
+      <td id="T_2ced5_row1_col4" class="data row1 col4" >Tenebrionidae</td>
+      <td id="T_2ced5_row1_col5" class="data row1 col5" >Stenomax</td>
+      <td id="T_2ced5_row1_col6" class="data row1 col6" >Stenomax aeneus</td>
+      <td id="T_2ced5_row1_col7" class="data row1 col7" >47,15</td>
+      <td id="T_2ced5_row1_col8" class="data row1 col8" >7,27</td>
+      <td id="T_2ced5_row1_col9" class="data row1 col9" >2021-04-12</td>
+    </tr>
+    <tr>
+      <td id="T_2ced5_row2_col0" class="data row2 col0" >Animalia</td>
+      <td id="T_2ced5_row2_col1" class="data row2 col1" >Arthropoda</td>
+      <td id="T_2ced5_row2_col2" class="data row2 col2" >Insecta</td>
+      <td id="T_2ced5_row2_col3" class="data row2 col3" >Coleoptera</td>
+      <td id="T_2ced5_row2_col4" class="data row2 col4" >Scarabaeidae</td>
+      <td id="T_2ced5_row2_col5" class="data row2 col5" >Cetonia</td>
+      <td id="T_2ced5_row2_col6" class="data row2 col6" >Cetonia aurata</td>
+      <td id="T_2ced5_row2_col7" class="data row2 col7" >47,15</td>
+      <td id="T_2ced5_row2_col8" class="data row2 col8" >7,27</td>
+      <td id="T_2ced5_row2_col9" class="data row2 col9" >2023-05-12</td>
+    </tr>
+    <tr>
+      <td id="T_2ced5_row3_col0" class="data row3 col0" >Animalia</td>
+      <td id="T_2ced5_row3_col1" class="data row3 col1" >Arthropoda</td>
+      <td id="T_2ced5_row3_col2" class="data row3 col2" >Insecta</td>
+      <td id="T_2ced5_row3_col3" class="data row3 col3" >Coleoptera</td>
+      <td id="T_2ced5_row3_col4" class="data row3 col4" >Carabidae</td>
+      <td id="T_2ced5_row3_col5" class="data row3 col5" >Cicindela</td>
+      <td id="T_2ced5_row3_col6" class="data row3 col6" >Cicindela campestris</td>
+      <td id="T_2ced5_row3_col7" class="data row3 col7" >47,15</td>
+      <td id="T_2ced5_row3_col8" class="data row3 col8" >7,27</td>
+      <td id="T_2ced5_row3_col9" class="data row3 col9" >2023-04-24</td>
+    </tr>
+    <tr>
+      <td id="T_2ced5_row4_col0" class="data row4 col0" >Animalia</td>
+      <td id="T_2ced5_row4_col1" class="data row4 col1" >Arthropoda</td>
+      <td id="T_2ced5_row4_col2" class="data row4 col2" >Insecta</td>
+      <td id="T_2ced5_row4_col3" class="data row4 col3" >Coleoptera</td>
+      <td id="T_2ced5_row4_col4" class="data row4 col4" >Carabidae</td>
+      <td id="T_2ced5_row4_col5" class="data row4 col5" >Amara</td>
+      <td id="T_2ced5_row4_col6" class="data row4 col6" >Amara aenea</td>
+      <td id="T_2ced5_row4_col7" class="data row4 col7" >47,15</td>
+      <td id="T_2ced5_row4_col8" class="data row4 col8" >7,27</td>
+      <td id="T_2ced5_row4_col9" class="data row4 col9" >2023-03-13</td>
+    </tr>
+  </tbody>
+</table>
+</span></p>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<img alt="background image" class="sd-card-img" src="_images/initial_gbif_map.jpeg" />
+<div class="sd-card-img-overlay docutils">
+<div class="sd-card-body docutils">
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<p><strong>Carte 2 :</strong> Examen initial des données accessibles au public. Les données pour le Lanhholzwald sont réparties entre deux carrés de grille (585220 et 585215). Les données du GBIF indiquent les coordonnées GPS des observations. Cela nous permet de définir les observations qui ont eu lieu dans le Längholzwald. Nombre d’observations = 96.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="l-ilot-de-chaleur-urbain">
+<h2><span class="section-number">1.3. </span>L’îlot de chaleur urbain<a class="headerlink" href="#l-ilot-de-chaleur-urbain" title="Permalink to this heading">#</a></h2>
+<p>Le phénomène par lequel les zones urbaines enregistrent des températures nettement plus élevées que leurs environs ruraux. Cette augmentation de la température est due à des facteurs tels que la forte concentration de bâtiments, de routes et d’autres infrastructures qui absorbent et retiennent la chaleur, la végétation limitée, et les activités humaines générant de la chaleur.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-2 sd-row-cols-lg-2 docutils">
+<div class="sd-col sd-d-flex-row sd-col-12 sd-col-xs-12 sd-col-sm-12 sd-col-md-8 sd-col-lg-8 docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<img alt="background image" class="sd-card-img" src="_images/initial_temp_map.jpeg" />
+<div class="sd-card-img-overlay docutils">
+<div class="sd-card-body docutils">
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-column sd-col-12 sd-col-xs-12 sd-col-sm-12 sd-col-md-4 sd-col-lg-4 docutils">
+<p>L’effet est plus prononcé pendant la nuit et peut entraîner une augmentation de la consommation d’énergie, des coûts de climatisation et des risques pour la santé en raison des vagues de chaleur.</p>
+<p>Gabrial Erismann réalise son mémoire de master sur l’îlot de chaleur urbain. Voici quelques-uns des points de contrôle issus des données.</p>
+<p><strong>Carte 3 :</strong> Examen initial des données: Température.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="dechets">
+<h2><span class="section-number">1.4. </span>Dechets<a class="headerlink" href="#dechets" title="Permalink to this heading">#</a></h2>
+<p>Les résultats de la dernière enquête fédérale sur les déchets indiquent un taux de 374 à 716 déchets par 100 mètres. Dans les Alpes bernoises, ce chiffre est estimé à environ 172 à 374. <a class="reference external" href="https://hammerdirt-analyst.github.io/IQAASL-End-0f-Sampling-2021/">IQAASL</a></p>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-1 sd-row-cols-lg-1 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm docutils">
+<img alt="background image" class="sd-card-img" src="_images/biel_dechets.jpeg" />
+<div class="sd-card-img-overlay docutils">
+<div class="sd-card-body docutils">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Langholzwald</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="references.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title"><span class="section-number">2. </span>References et publications</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#infospecies">1.1. Infospecies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#global-biodiversity-information-facility-gbif">1.2. Global Biodiversity Information Facility (GBIF)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#l-ilot-de-chaleur-urbain">1.3. L’îlot de chaleur urbain</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dechets">1.4. Dechets</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Roger Erismann
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p> Roger Erismann, at hammerdirt 2024 </p>
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
