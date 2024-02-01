@@ -7,8 +7,6 @@ parts:
   numbered: true
   chapters:
   - file: donnees
-- caption: Annexe
-  numbered: true
-  chapters:
   - file: references
+
  
