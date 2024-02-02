@@ -42,6 +42,11 @@ dependencies:
   - xarray
   - watermark
 
+## Software
+QGIS 3.34.3-Prizren
+
+
+
 
 
 
