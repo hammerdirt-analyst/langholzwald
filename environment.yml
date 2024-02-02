@@ -1,0 +1,15 @@
+name: langholz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - jupyter-book
+  - pandas
+  - pyarrow
+  - pdfplumber
+  - netcdf4
+  - xarray
+  - watermark
+prefix: /anaconda3/envs/langholz
