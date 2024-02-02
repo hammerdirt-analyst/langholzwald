@@ -1,6 +1,7 @@
 # In _config.yml
 title: Längholzwald
 author: Roger Erismann
+copyright: "2024"
 execute:
   execute_notebooks: False
 # html:
@@ -20,8 +21,3 @@ sphinx:
       repository_url: https://github.com/hammerdirt-analyst/langholzwald
       use_issues_button: true
       use_repository_button: true
-      
-      extra_footer:
-        <p>
-           Roger Erismann, at hammerdirt 2024
-        </p>
