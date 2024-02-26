@@ -309,11 +309,18 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#objectifs">Objectifs</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#motivation">Motivation</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-du-fichier-de-donnees">Structure du fichier de données</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#in-process">In process</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#end-pipe">End pipe</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure">Structure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ressources">Ressources</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cartography">Cartography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-du-fichier-de-donnees">Structure du fichier de données</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#in-process">In process</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#end-pipe">End pipe</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installed-packages">Installed packages</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#software">Software</a></li>
 </ul>
             </nav>
         </div>
@@ -336,17 +343,46 @@ document.write(`
 <h2>Motivation<a class="headerlink" href="#motivation" title="Permalink to this heading">#</a></h2>
 <p>Cette forêt est proche de ma maison</p>
 </section>
+<section id="structure">
+<h2>Structure<a class="headerlink" href="#structure" title="Permalink to this heading">#</a></h2>
+<section id="ressources">
+<h3>Ressources<a class="headerlink" href="#ressources" title="Permalink to this heading">#</a></h3>
+<p>Les publications de référence et les produits de données associés comme les cartes ou les graphiques.</p>
+</section>
+<section id="cartography">
+<h3>Cartography<a class="headerlink" href="#cartography" title="Permalink to this heading">#</a></h3>
+<p>Le dossier de cartographie contient les fichiers .shp édités issus de swissTLM3D 2.1 et les fichiers générés à partir de ceux-ci.</p>
+</section>
 <section id="structure-du-fichier-de-donnees">
-<h2>Structure du fichier de données<a class="headerlink" href="#structure-du-fichier-de-donnees" title="Permalink to this heading">#</a></h2>
+<h3>Structure du fichier de données<a class="headerlink" href="#structure-du-fichier-de-donnees" title="Permalink to this heading">#</a></h3>
 <section id="in-process">
-<h3>In process<a class="headerlink" href="#in-process" title="Permalink to this heading">#</a></h3>
+<h4>In process<a class="headerlink" href="#in-process" title="Permalink to this heading">#</a></h4>
 <p>Les fichiers “en traitement” sont ceux provenant de sources extérieures. Ils sont actuellement comparés à d’autres sources pour déterminer leur adéquation ou nous extrayons les données dans un certain périmètre de la zone d’étude.</p>
 </section>
 <section id="end-pipe">
-<h3>End pipe<a class="headerlink" href="#end-pipe" title="Permalink to this heading">#</a></h3>
-<p>Le “conduit final” contient des fichiers (ou des connexions) qui sont actuellement utilisés pour les graphiques et les diagrammes. Au fur et à mesure que le projet progresse, le dossier “en traitement” se videra (à mesure que nous passerons en revue toutes les données) et le dossier “conduit final” diminuera. Dans certains cas, il peut être possible d’éliminer le stockage de toutes les données en se connectant directement aux sources de données existantes.
-_</p>
+<h4>End pipe<a class="headerlink" href="#end-pipe" title="Permalink to this heading">#</a></h4>
+<p>Le “conduit final” contient des fichiers (ou des connexions) qui sont actuellement utilisés pour les graphiques et les diagrammes. Au fur et à mesure que le projet progresse, le dossier “en traitement” se videra (à mesure que nous passerons en revue toutes les données) et le dossier “conduit final” diminuera. Dans certains cas, il peut être possible d’éliminer le stockage de toutes les données en se connectant directement aux sources de données existantes.</p>
 </section>
+</section>
+</section>
+<section id="installed-packages">
+<h2>Installed packages<a class="headerlink" href="#installed-packages" title="Permalink to this heading">#</a></h2>
+<p>dependencies:</p>
+<ul class="simple">
+<li><p>python=3.12</p></li>
+<li><p>jupyterlab</p></li>
+<li><p>jupyter-book</p></li>
+<li><p>pandas</p></li>
+<li><p>pyarrow</p></li>
+<li><p>pdfplumber</p></li>
+<li><p>netcdf4</p></li>
+<li><p>xarray</p></li>
+<li><p>watermark</p></li>
+</ul>
+</section>
+<section id="software">
+<h2>Software<a class="headerlink" href="#software" title="Permalink to this heading">#</a></h2>
+<p>QGIS 3.34.3-Prizren</p>
 </section>
 </section>
 
@@ -398,11 +434,18 @@ _</p>
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#objectifs">Objectifs</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#motivation">Motivation</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-du-fichier-de-donnees">Structure du fichier de données</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#in-process">In process</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#end-pipe">End pipe</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structure">Structure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ressources">Ressources</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cartography">Cartography</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#structure-du-fichier-de-donnees">Structure du fichier de données</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#in-process">In process</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#end-pipe">End pipe</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installed-packages">Installed packages</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#software">Software</a></li>
 </ul>
   </nav></div>
 
